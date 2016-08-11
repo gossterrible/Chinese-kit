@@ -1,0 +1,4292 @@
+< ? xml version = "1.0"
+encoding = "UTF-8" ? >
+    < dataroot xmlns : od = "urn:schemas-microsoft-com:officedata"
+generated = "2007-04-05T08:21:00" >
+    < dbo_langKit >
+    < phraseID > 1 < /phraseID> < catID > 1 < /catID > < phraseOrder > 1 < /phraseOrder> < englishPhrase > Stop! < /englishPhrase > < romanized > JanJoo! < /romanized> < unicode > 站住！ < /unicode > < phrase > & amp;
+#31449;&amp;# 20303; & amp;
+#65281;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>2</phraseID>
+<catID>1</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Stop or I will shoot.</englishPhrase>
+<romanized>teengsheeyalay, yawboran wo jeeyo kayChqeeyang</romanized>
+<unicode>停下来，要不然我就开枪。</unicode>
+<phrase>&amp;# 20572; & amp;
+#19979;&amp;# 26469; & amp;
+#65292;&amp;# 35201; & amp;
+#19981;&amp;# 28982; & amp;
+#25105;&amp;# 23601; & amp;
+#24320;&amp;# 26538; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>3</phraseID>
+<catID>1</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Follow our orders.</englishPhrase>
+<romanized>teeng women de meengleeng</romanized>
+<unicode>听我们的命令。</unicode>
+<phrase>&amp;# 21548; & amp;
+#25105;&amp;# 20204; & amp;
+#30340;&amp;# 21629; & amp;
+#20196;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 4 < /phraseID> < catID > 1 < /catID > < phraseOrder > 4 < /phraseOrder> < englishPhrase > Don & apos;
+t shoot. < /englishPhrase> < romanized > beye kaay Cheeyang < /romanized > < unicode > 别开枪。 < /unicode> < phrase > & amp;
+#21035;&amp;# 24320; & amp;
+#26538;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 5 < /phraseID> < catID > 1 < /catID > < phraseOrder > 5 < /phraseOrder> < englishPhrase > Put your weapon down. < /englishPhrase > < romanized > fangxia woChee < /romanized> < unicode > 放下武器。 < /unicode > < phrase > & amp;
+#25918;&amp;# 19979; & amp;
+#27494;&amp;# 22120; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>6</phraseID>
+<catID>1</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Move.</englishPhrase>
+<romanized>dzo</romanized>
+<unicode>走。</unicode>
+<phrase>&amp;# 36208; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>7</phraseID>
+<catID>1</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Come here.</englishPhrase>
+<romanized>daw Je&apos;er lay</romanized>
+<unicode>到这儿来。</unicode>
+<phrase>&amp;# 21040; & amp;
+#36825;&amp;# 20799; & amp;
+#26469;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 8 < /phraseID> < catID > 1 < /catID > < phraseOrder > 8 < /phraseOrder> < englishPhrase > Follow me. < /englishPhrase > < romanized > genJe wo < /romanized> < unicode > 跟着我。 < /unicode > < phrase > & amp;
+#36319;&amp;# 30528; & amp;
+#25105;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 9 < /phraseID> < catID > 1 < /catID > < phraseOrder > 9 < /phraseOrder> < englishPhrase > Stay here. < /englishPhrase > < romanized > dey dzey Je & apos;
+er < /romanized> < unicode > 呆在这儿。 < /unicode > < phrase > & amp;
+#21574;&amp;# 22312; & amp;
+#36825;&amp;# 20799; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>10</phraseID>
+<catID>1</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Wait here.</englishPhrase>
+<romanized>dzey Je&apos;er dengJe</romanized>
+<unicode>在这儿等着。</unicode>
+<phrase>&amp;# 22312; & amp;
+#36825;&amp;# 20799; & amp;
+#31561;&amp;# 30528; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>11</phraseID>
+<catID>1</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Do not move.</englishPhrase>
+<romanized>beeye dong</romanized>
+<unicode>别动。</unicode>
+<phrase>&amp;# 21035; & amp;
+#21160;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 12 < /phraseID> < catID > 1 < /catID > < phraseOrder > 12 < /phraseOrder> < englishPhrase > Stay where you are. < /englishPhrase > < romanized > dey dzey yo - endee < /romanized> < unicode > 呆在原地。 < /unicode > < phrase > & amp;
+#21574;&amp;# 22312; & amp;
+#21407;&amp;# 22320; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>13</phraseID>
+<catID>1</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Come with me.</englishPhrase>
+<romanized>gen wo dzo</romanized>
+<unicode>跟我走。</unicode>
+<phrase>&amp;# 36319; & amp;
+#25105;&amp;# 36208; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>14</phraseID>
+<catID>1</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Take me to ___.</englishPhrase>
+<romanized>dey wo daw ___</romanized>
+<unicode>带我到 ___。</unicode>
+<phrase>&amp;# 24102; & amp;
+#25105;&amp;# 21040;
+___ & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>15</phraseID>
+<catID>1</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Be quiet.</englishPhrase>
+<romanized>anjeeng</romanized>
+<unicode>安静。</unicode>
+<phrase>&amp;# 23433; & amp;
+#38745;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 16 < /phraseID> < catID > 1 < /catID > < phraseOrder > 16 < /phraseOrder> < englishPhrase > Slow down. < /englishPhrase > < romanized > mandeen & apos;
+er < /romanized> < unicode > 慢点儿。 < /unicode > < phrase > & amp;
+#24930;&amp;# 28857; & amp;
+#20799;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 17 < /phraseID> < catID > 1 < /catID > < phraseOrder > 17 < /phraseOrder> < englishPhrase > Move slowly. < /englishPhrase > < romanized > mandeen & apos;
+er dzo < /romanized> < unicode > 慢点儿走。 < /unicode > < phrase > & amp;
+#24930;&amp;# 28857; & amp;
+#20799;&amp;# 36208; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>18</phraseID>
+<catID>1</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Hands up.</englishPhrase>
+<romanized>jyooChee sho</romanized>
+<unicode>举起手。</unicode>
+<phrase>&amp;# 20030; & amp;
+#36215;&amp;# 25163; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>19</phraseID>
+<catID>1</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Lower your hands.</englishPhrase>
+<romanized>fangSheeya sho</romanized>
+<unicode>放下手。</unicode>
+<phrase>&amp;# 25918; & amp;
+#19979;&amp;# 25163; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>20</phraseID>
+<catID>1</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Lie down.</englishPhrase>
+<romanized>wodaw</romanized>
+<unicode>卧倒。</unicode>
+<phrase>&amp;# 21351; & amp;
+#20498;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 21 < /phraseID> < catID > 1 < /catID > < phraseOrder > 21 < /phraseOrder> < englishPhrase > Lie on your stomach. < /englishPhrase > < romanized > pa dzey deeshang < /romanized> < unicode > 趴在地上。 < /unicode > < phrase > & amp;
+#36276;&amp;# 22312; & amp;
+#22320;&amp;# 19978; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>22</phraseID>
+<catID>1</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Get up.</englishPhrase>
+<romanized>Cheelay</romanized>
+<unicode>起来。</unicode>
+<phrase>&amp;# 36215; & amp;
+#26469;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 23 < /phraseID> < catID > 1 < /catID > < phraseOrder > 23 < /phraseOrder> < englishPhrase > Surrender. < /englishPhrase > < romanized > toSheeyang < /romanized> < unicode > 投降。 < /unicode > < phrase > & amp;
+#25237;&amp;# 38477; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>24</phraseID>
+<catID>1</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>You are a prisoner.</englishPhrase>
+<romanized>neeshi eeyge Cheeyofan</romanized>
+<unicode>你是一个囚犯。</unicode>
+<phrase>&amp;# 20320; & amp;
+#26159;&amp;# 19968; & amp;
+#20010;&amp;# 22234; & amp;
+#29359;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 25 < /phraseID> < catID > 1 < /catID > < phraseOrder > 25 < /phraseOrder> < englishPhrase > We must search you. < /englishPhrase > < romanized > women beeSho sochaa nee < /romanized> < unicode > 我们必须搜查你。 < /unicode > < phrase > & amp;
+#25105;&amp;# 20204; & amp;
+#24517;&amp;# 39035; & amp;
+#25628;&amp;# 26597; & amp;
+#20320;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 26 < /phraseID> < catID > 1 < /catID > < phraseOrder > 26 < /phraseOrder> < englishPhrase > Turn around. < /englishPhrase > < romanized > Juan gwoChe < /romanized> < unicode > 转过去。 < /unicode > < phrase > & amp;
+#36716;&amp;# 36807; & amp;
+#21435;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 27 < /phraseID> < catID > 1 < /catID > < phraseOrder > 27 < /phraseOrder> < englishPhrase > Walk forward. < /englishPhrase > < romanized > wang Cheeyan dzo < /romanized> < unicode > 往前走。 < /unicode > < phrase > & amp;
+#24448;&amp;# 21069; & amp;
+#36208;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 28 < /phraseID> < catID > 1 < /catID > < phraseOrder > 28 < /phraseOrder> < englishPhrase > Form a line. < /englishPhrase > < romanized > Jancheng yee dway < /romanized> < unicode > 站成一队。 < /unicode > < phrase > & amp;
+#31449;&amp;# 25104; & amp;
+#19968;&amp;# 38431; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>29</phraseID>
+<catID>1</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>One at a time.</englishPhrase>
+<romanized>meytsee eey ren</romanized>
+<unicode>每次一人。</unicode>
+<phrase>&amp;# 27599; & amp;
+#27425;&amp;# 19968; & amp;
+#20154;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 30 < /phraseID> < catID > 1 < /catID > < phraseOrder > 30 < /phraseOrder> < englishPhrase > You are next. < /englishPhrase > < romanized > nee shi Sheeya eey ge < /romanized> < unicode > 你是下一个。 < /unicode > < phrase > & amp;
+#20320;&amp;# 26159; & amp;
+#19979;&amp;# 19968; & amp;
+#20010;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 31 < /phraseID> < catID > 1 < /catID > < phraseOrder > 31 < /phraseOrder> < englishPhrase > No talking. < /englishPhrase > < romanized > bo Shooy shohwa < /romanized> < unicode > 不许说话。 < /unicode > < phrase > & amp;
+#19981;&amp;# 35768; & amp;
+#35828;&amp;# 35805; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>32</phraseID>
+<catID>1</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Do not resist.</englishPhrase>
+<romanized>bo Shooy fankang</romanized>
+<unicode>不许反抗。</unicode>
+<phrase>&amp;# 19981; & amp;
+#35768;&amp;# 21453; & amp;
+#25239;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 33 < /phraseID> < catID > 1 < /catID > < phraseOrder > 33 < /phraseOrder> < englishPhrase > Calm down. < /englishPhrase > < romanized > jeen Sheeyaalay < /romanized> < unicode > 静下来。 < /unicode > < phrase > & amp;
+#38745;&amp;# 19979; & amp;
+#26469;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 34 < /phraseID> < catID > 1 < /catID > < phraseOrder > 34 < /phraseOrder> < englishPhrase > Give me. < /englishPhrase > < romanized > gey wo < /romanized> < unicode > 给我。 < /unicode > < phrase > & amp;
+#32473;&amp;# 25105; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>35</phraseID>
+<catID>1</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Do not touch.</englishPhrase>
+<romanized>beeye peng</romanized>
+<unicode>别碰。</unicode>
+<phrase>&amp;# 21035; & amp;
+#30896;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 36 < /phraseID> < catID > 1 < /catID > < phraseOrder > 36 < /phraseOrder> < englishPhrase > Do not remove. < /englishPhrase > < romanized > bo Sho naadzo < /romanized> < unicode > 不许拿走。 < /unicode > < phrase > & amp;
+#19981;&amp;# 35768; & amp;
+#25343;&amp;# 36208; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>37</phraseID>
+<catID>1</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>Keep away.</englishPhrase>
+<romanized>rangkey</romanized>
+<unicode>让开。</unicode>
+<phrase>&amp;# 35753; & amp;
+#24320;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 38 < /phraseID> < catID > 1 < /catID > < phraseOrder > 38 < /phraseOrder> < englishPhrase > Let us pass. < /englishPhrase > < romanized > rang women gwoCho < /romanized> < unicode > 让我们过去。 < /unicode > < phrase > & amp;
+#35753;&amp;# 25105; & amp;
+#20204;&amp;# 36807; & amp;
+#21435;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 39 < /phraseID> < catID > 1 < /catID > < phraseOrder > 39 < /phraseOrder> < englishPhrase > Don & apos;
+t be frightened. < /englishPhrase> < romanized > bo yaw haaypa < /romanized > < unicode > 不要害怕。 < /unicode> < phrase > & amp;
+#19981;&amp;# 35201; & amp;
+#23475;&amp;# 24597; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>41</phraseID>
+<catID>1</catID>
+<phraseOrder>40</phraseOrder>
+<englishPhrase>You can leave.</englishPhrase>
+<romanized>nee koyeedzo</romanized>
+<unicode>你可以走。</unicode>
+<phrase>&amp;# 20320; & amp;
+#21487;&amp;# 20197; & amp;
+#36208;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 42 < /phraseID> < catID > 1 < /catID > < phraseOrder > 41 < /phraseOrder> < englishPhrase > Go. < /englishPhrase > < romanized > dzo < /romanized> < unicode > 走。 < /unicode > < phrase > & amp;
+#36208;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 43 < /phraseID> < catID > 1 < /catID > < phraseOrder > 42 < /phraseOrder> < englishPhrase > Go home. < /englishPhrase > < romanized > hoyjeeya Cho < /romanized> < unicode > 回家去。 < /unicode > < phrase > & amp;
+#22238;&amp;# 23478; & amp;
+#21435;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 44 < /phraseID> < catID > 1 < /catID > < phraseOrder > 43 < /phraseOrder> < englishPhrase > Open. < /englishPhrase > < romanized > daaky < /romanized> < unicode > 打开。 < /unicode > < phrase > & amp;
+#25171;&amp;# 24320; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>45</phraseID>
+<catID>1</catID>
+<phraseOrder>44</phraseOrder>
+<englishPhrase>Close.</englishPhrase>
+<romanized>guanshaang</romanized>
+<unicode>关上。</unicode>
+<phrase>&amp;# 20851; & amp;
+#19978;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 46 < /phraseID> < catID > 1 < /catID > < phraseOrder > 45 < /phraseOrder> < englishPhrase > Beware. < /englishPhrase > < romanized > SheeyawSheen < /romanized> < unicode > 小心。 < /unicode > < phrase > & amp;
+#23567;&amp;# 24515; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>47</phraseID>
+<catID>1</catID>
+<phraseOrder>46</phraseOrder>
+<englishPhrase>Bring me.</englishPhrase>
+<romanized>gey wo</romanized>
+<unicode>给我。</unicode>
+<phrase>&amp;# 32473; & amp;
+#25105;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 48 < /phraseID> < catID > 1 < /catID > < phraseOrder > 47 < /phraseOrder> < englishPhrase > Distribute. < /englishPhrase > < romanized > fa < /romanized> < unicode > 发。 < /unicode > < phrase > & amp;
+#21457;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 49 < /phraseID> < catID > 1 < /catID > < phraseOrder > 48 < /phraseOrder> < englishPhrase > Fill < /englishPhrase > < romanized > Jwang < /romanized> < unicode > 装。 < /unicode > < phrase > & amp;
+#35013;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 50 < /phraseID> < catID > 1 < /catID > < phraseOrder > 49 < /phraseOrder> < englishPhrase > Lift < /englishPhrase > < romanized > taay / tee < /romanized> < unicode > 抬 /
+提 < /unicode> < phrase > & amp;
+#25260; / &amp;# 25552; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 51 < /phraseID> < catID > 1 < /catID > < phraseOrder > 50 < /phraseOrder> < englishPhrase > Pour into < /englishPhrase > < romanized > dawjeenCho < /romanized> < unicode > 倒进去。 < /unicode > < phrase > & amp;
+#20498;&amp;# 36827; & amp;
+#21435;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 52 < /phraseID> < catID > 1 < /catID > < phraseOrder > 51 < /phraseOrder> < englishPhrase > Put < /englishPhrase > < romanized > fang < /romanized> < unicode > 放 < /unicode > < phrase > & amp;
+#25918;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>53</phraseID>
+<catID>1</catID>
+<phraseOrder>52</phraseOrder>
+<englishPhrase>Take</englishPhrase>
+<romanized>naa</romanized>
+<unicode>拿</unicode>
+<phrase>&amp;# 25343; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 54 < /phraseID> < catID > 1 < /catID > < phraseOrder > 53 < /phraseOrder> < englishPhrase > Load < /englishPhrase > < romanized > Jwang < /romanized> < unicode > 装 < /unicode > < phrase > & amp;
+#35013;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>55</phraseID>
+<catID>1</catID>
+<phraseOrder>54</phraseOrder>
+<englishPhrase>Unload</englishPhrase>
+<romanized>Sheeye</romanized>
+<unicode>卸</unicode>
+<phrase>&amp;# 21368; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 56 < /phraseID> < catID > 1 < /catID > < phraseOrder > 55 < /phraseOrder> < englishPhrase > Help me. < /englishPhrase > < romanized > bang wo < /romanized> < unicode > 帮我。 < /unicode > < phrase > & amp;
+#24110;&amp;# 25105; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>57</phraseID>
+<catID>1</catID>
+<phraseOrder>56</phraseOrder>
+<englishPhrase>Show me.</englishPhrase>
+<romanized>gey wo kan</romanized>
+<unicode>给我看。</unicode>
+<phrase>&amp;# 32473; & amp;
+#25105;&amp;# 30475; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>58</phraseID>
+<catID>1</catID>
+<phraseOrder>57</phraseOrder>
+<englishPhrase>Tell me.</englishPhrase>
+<romanized>gawso wo</romanized>
+<unicode>告诉我。</unicode>
+<phrase>&amp;# 21578; & amp;
+#35785;&amp;# 25105; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>59</phraseID>
+<catID>2</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Please.</englishPhrase>
+<romanized>Cheeng</romanized>
+<unicode>请。</unicode>
+<phrase>&amp;# 35831; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>60</phraseID>
+<catID>2</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Thank you.</englishPhrase>
+<romanized>SheeySheeye</romanized>
+<unicode>谢谢。</unicode>
+<phrase>&amp;# 35874; & amp;
+#35874;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 61 < /phraseID> < catID > 2 < /catID > < phraseOrder > 3 < /phraseOrder> < englishPhrase > Can someone assist us ? < /englishPhrase > < romanized > yo ren bang wo ma ? < /romanized> < unicode > 有人帮我吗？ < /unicode > < phrase > & amp;
+#26377;&amp;# 20154; & amp;
+#24110;&amp;# 25105; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 62 < /phraseID> < catID > 2 < /catID > < phraseOrder > 4 < /phraseOrder> < englishPhrase > OK. < /englishPhrase > < romanized > haw < /romanized> < unicode > 好。 < /unicode > < phrase > & amp;
+#22909;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 63 < /phraseID> < catID > 2 < /catID > < phraseOrder > 5 < /phraseOrder> < englishPhrase > Excuse me. /
+I & apos;
+m sorry. < /englishPhrase> < romanized > doye bo Chee < /romanized > < unicode > 对不起。 < /unicode> < phrase > & amp;
+#23545;&amp;# 19981; & amp;
+#36215;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 64 < /phraseID> < catID > 2 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Yes. < /englishPhrase > < romanized > shi < /romanized> < unicode > 是。 < /unicode > < phrase > & amp;
+#26159;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 65 < /phraseID> < catID > 2 < /catID > < phraseOrder > 7 < /phraseOrder> < englishPhrase > No. < /englishPhrase > < romanized > bo < /romanized> < unicode > 不。 < /unicode > < phrase > & amp;
+#19981;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 66 < /phraseID> < catID > 2 < /catID > < phraseOrder > 8 < /phraseOrder> < englishPhrase > Maybe. < /englishPhrase > < romanized > yeShooy < /romanized> < unicode > 也许。 < /unicode > < phrase > & amp;
+#20063;&amp;# 35768; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>67</phraseID>
+<catID>2</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Right.</englishPhrase>
+<romanized>dway</romanized>
+<unicode>对。</unicode>
+<phrase>&amp;# 23545; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>68</phraseID>
+<catID>2</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Wrong.</englishPhrase>
+<romanized>tso le</romanized>
+<unicode>错了。</unicode>
+<phrase>&amp;# 38169; & amp;
+#20102;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 69 < /phraseID> < catID > 2 < /catID > < phraseOrder > 11 < /phraseOrder> < englishPhrase > Here. < /englishPhrase > < romanized > Je & apos;
+er < /romanized> < unicode > 这儿。 < /unicode > < phrase > & amp;
+#36825;&amp;# 20799; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>70</phraseID>
+<catID>2</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>There.</englishPhrase>
+<romanized>na&apos;er</romanized>
+<unicode>那儿。</unicode>
+<phrase>&amp;# 37027; & amp;
+#20799;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 71 < /phraseID> < catID > 2 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > I want. < /englishPhrase > < romanized > wo yaw < /romanized> < unicode > 我要。 < /unicode > < phrase > & amp;
+#25105;&amp;# 35201; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>72</phraseID>
+<catID>2</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>I do not want.</englishPhrase>
+<romanized>wo bo yaw</romanized>
+<unicode>我不要。</unicode>
+<phrase>&amp;# 25105; & amp;
+#19981;&amp;# 35201; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>73</phraseID>
+<catID>2</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Danger.</englishPhrase>
+<romanized>weySheeyan</romanized>
+<unicode>危险。</unicode>
+<phrase>&amp;# 21361; & amp;
+#38505;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 74 < /phraseID> < catID > 2 < /catID > < phraseOrder > 16 < /phraseOrder> < englishPhrase > We are here to help you. < /englishPhrase > < romanized > women dzey Je & apos;
+er bang nee de < /romanized> < unicode > 我们在这儿帮你。 < /unicode > < phrase > & amp;
+#25105;&amp;# 20204; & amp;
+#22312;&amp;# 36825; & amp;
+#20799;&amp;# 24110; & amp;
+#20320;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 75 < /phraseID> < catID > 2 < /catID > < phraseOrder > 17 < /phraseOrder> < englishPhrase > Help is on the way. < /englishPhrase > < romanized > yuanJo yaw daw le < /romanized> < unicode > 援助要到了。 < /unicode > < phrase > & amp;
+#25588;&amp;# 21161; & amp;
+#35201;&amp;# 21040; & amp;
+#20102;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 76 < /phraseID> < catID > 2 < /catID > < phraseOrder > 18 < /phraseOrder> < englishPhrase > We are Americans. < /englishPhrase > < romanized > women shi meygwo ren < /romanized> < unicode > 我们是美国人。 < /unicode > < phrase > & amp;
+#25105;&amp;# 20204; & amp;
+#26159;&amp;# 32654; & amp;
+#22269;&amp;# 20154; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>77</phraseID>
+<catID>2</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>You will not be harmed.</englishPhrase>
+<romanized>nee buhoy shodaw shanghay</romanized>
+<unicode>你不会受到伤害。</unicode>
+<phrase>&amp;# 20320; & amp;
+#19981;&amp;# 20250; & amp;
+#21463;&amp;# 21040; & amp;
+#20260;&amp;# 23475; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>78</phraseID>
+<catID>2</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>You are safe.</englishPhrase>
+<romanized>nee hen anChuan</romanized>
+<unicode>你很安全。</unicode>
+<phrase>&amp;# 20320; & amp;
+#24456;&amp;# 23433; & amp;
+#20840;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 79 < /phraseID> < catID > 2 < /catID > < phraseOrder > 21 < /phraseOrder> < englishPhrase > OK, no problem. < /englishPhrase > < romanized > haw, mey wentee < /romanized> < unicode > 好， 没问题。 < /unicode > < phrase > & amp;
+#22909;&amp;# 65292; & amp;
+#27809;&amp;# 38382; & amp;
+#39064;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 80 < /phraseID> < catID > 2 < /catID > < phraseOrder > 22 < /phraseOrder> < englishPhrase > Who ? < /englishPhrase > < romanized > shey ? < /romanized> < unicode > 谁？ < /unicode > < phrase > & amp;
+#35841;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 81 < /phraseID> < catID > 2 < /catID > < phraseOrder > 23 < /phraseOrder> < englishPhrase > What ? < /englishPhrase > < romanized > shenme ? < /romanized> < unicode > 什么？ < /unicode > < phrase > & amp;
+#20160;&amp;# 20040; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>82</phraseID>
+<catID>2</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>When?</englishPhrase>
+<romanized>shenme sheeho?</romanized>
+<unicode>什么时候？</unicode>
+<phrase>&amp;# 20160; & amp;
+#20040;&amp;# 26102; & amp;
+#20505;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 83 < /phraseID> < catID > 2 < /catID > < phraseOrder > 25 < /phraseOrder> < englishPhrase > Where ? < /englishPhrase > < romanized > dzey na & apos;
+er ? < /romanized> < unicode > 在哪儿？ < /unicode > < phrase > & amp;
+#22312;&amp;# 21738; & amp;
+#20799;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 84 < /phraseID> < catID > 2 < /catID > < phraseOrder > 26 < /phraseOrder> < englishPhrase > Why ? < /englishPhrase > < romanized > wey shenmaa ? < /romanized> < unicode > 为什么？ < /unicode > < phrase > & amp;
+#20026;&amp;# 20160; & amp;
+#20040;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 85 < /phraseID> < catID > 2 < /catID > < phraseOrder > 27 < /phraseOrder> < englishPhrase > How ? < /englishPhrase > < romanized > dzenmeyang ? < /romanized> < unicode > 怎么样？ < /unicode > < phrase > & amp;
+#24590;&amp;# 20040; & amp;
+#26679;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 86 < /phraseID> < catID > 2 < /catID > < phraseOrder > 28 < /phraseOrder> < englishPhrase > What happened ? < /englishPhrase > < romanized > fasheng le shenme shi ? < /romanized> < unicode > 发生了什么事？ < /unicode > < phrase > & amp;
+#21457;&amp;# 29983; & amp;
+#20102;&amp;# 20160; & amp;
+#20040;&amp;# 20107; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>87</phraseID>
+<catID>2</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Do you have ___?</englishPhrase>
+<romanized>nee yo ___ ?</romanized>
+<unicode>你有 ___？</unicode>
+<phrase>&amp;# 20320; & amp;
+#26377; ___&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 88 < /phraseID> < catID > 2 < /catID > < phraseOrder > 30 < /phraseOrder> < englishPhrase > Do you need help ? < /englishPhrase > < romanized > nee Shoyaw bangJo ma ? < /romanized> < unicode > 你需要帮助吗？ < /unicode > < phrase > & amp;
+#20320;&amp;# 38656; & amp;
+#35201;&amp;# 24110; & amp;
+#21161;&amp;# 21527; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>89</phraseID>
+<catID>2</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>I am</englishPhrase>
+<romanized>wo shi</romanized>
+<unicode>我是</unicode>
+<phrase>&amp;# 25105; & amp;
+#26159;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>90</phraseID>
+<catID>2</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>You are</englishPhrase>
+<romanized>nee shi</romanized>
+<unicode>你是</unicode>
+<phrase>&amp;# 20320; & amp;
+#26159;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>93</phraseID>
+<catID>2</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>He / She is</englishPhrase>
+<romanized>taa shi / taa shi</romanized>
+<unicode>他/她是</unicode>
+<phrase>&amp;# 20182;
+/ &amp;#22905;&amp;#26159;</phrase >
+< /dbo_langKit> < dbo_langKit > < phraseID > 94 < /phraseID> < catID > 2 < /catID > < phraseOrder > 34 < /phraseOrder> < englishPhrase > We are < /englishPhrase > < romanized > women shi < /romanized> < unicode > 我们是 < /unicode > < phrase > & amp;
+#25105;&amp;# 20204; & amp;
+#26159;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>95</phraseID>
+<catID>2</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>They are</englishPhrase>
+<romanized>tamen shi</romanized>
+<unicode>他们是</unicode>
+<phrase>&amp;# 20182; & amp;
+#20204;&amp;# 26159; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 100 < /phraseID> < catID > 3 < /catID > < phraseOrder > 1 < /phraseOrder> < englishPhrase > Welcome. < /englishPhrase > < romanized > ho - wanyeeng. < /romanized> < unicode > 欢迎。 < /unicode > < phrase > & amp;
+#27426;&amp;# 36814; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>101</phraseID>
+<catID>3</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Hello.</englishPhrase>
+<romanized>wey</romanized>
+<unicode>喂。</unicode>
+<phrase>&amp;# 21890; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>102</phraseID>
+<catID>3</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Good morning.</englishPhrase>
+<romanized>dzawshang haw</romanized>
+<unicode>早上好。</unicode>
+<phrase>&amp;# 26089; & amp;
+#19978;&amp;# 22909; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>103</phraseID>
+<catID>3</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Good night.</englishPhrase>
+<romanized>wan&apos;an</romanized>
+<unicode>晚安。</unicode>
+<phrase>&amp;# 26202; & amp;
+#23433;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 104 < /phraseID> < catID > 3 < /catID > < phraseOrder > 5 < /phraseOrder> < englishPhrase > Good bye. < /englishPhrase > < romanized > dzayjeeyan < /romanized> < unicode > 再见。 < /unicode > < phrase > & amp;
+#20877;&amp;# 35265; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>105</phraseID>
+<catID>3</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>How are you?</englishPhrase>
+<romanized>nee haw ma?</romanized>
+<unicode>你好吗？</unicode>
+<phrase>&amp;# 20320; & amp;
+#22909;&amp;# 21527; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>107</phraseID>
+<catID>3</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>I&apos;m fine, thanks, and you?</englishPhrase>
+<romanized>wo hen haw, Sheeyshee, nee naa?</romanized>
+<unicode>我很好，谢谢，你呢？</unicode>
+<phrase>&amp;# 25105; & amp;
+#24456;&amp;# 22909; & amp;
+#65292;&amp;# 35874; & amp;
+#35874;&amp;# 65292; & amp;
+#20320;&amp;# 21602; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>108</phraseID>
+<catID>3</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>I&apos;m pleased to meet you.</englishPhrase>
+<romanized>wo hen gawSheeng jeeyandaw nee</romanized>
+<unicode>我很高兴见到你。</unicode>
+<phrase>&amp;# 25105; & amp;
+#24456;&amp;# 39640; & amp;
+#20852;&amp;# 35265; & amp;
+#21040;&amp;# 20320; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>109</phraseID>
+<catID>3</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Thank you for your help.</englishPhrase>
+<romanized>Sheeyshee nee de bangJo</romanized>
+<unicode>谢谢你的帮助。</unicode>
+<phrase>&amp;# 35874; & amp;
+#35874;&amp;# 20320; & amp;
+#30340;&amp;# 24110; & amp;
+#21161;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 110 < /phraseID> < catID > 3 < /catID > < phraseOrder > 10 < /phraseOrder> < englishPhrase > My name is ___. < /englishPhrase > < romanized > wo de meengdzy shi ___ < /romanized> < unicode > 我的名字是 ___。 < /unicode > < phrase > & amp;
+#25105;&amp;# 30340; & amp;
+#21517;&amp;# 23383; & amp;
+#26159; ___ &amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 111 < /phraseID> < catID > 4 < /catID > < phraseOrder > 1 < /phraseOrder> < englishPhrase > Do you speak English ? < /englishPhrase > < romanized > nee jeeyang yeengwen ma ? < /romanized> < unicode > 你讲英文吗？ < /unicode > < phrase > & amp;
+#20320;&amp;# 35762; & amp;
+#33521;&amp;# 25991; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 112 < /phraseID> < catID > 4 < /catID > < phraseOrder > 2 < /phraseOrder> < englishPhrase > I do not speak Jongwen. < /englishPhrase > < romanized > wo boo jeeyang Jongwen < /romanized> < unicode > 我不讲中文。 < /unicode > < phrase > & amp;
+#25105;&amp;# 19981; & amp;
+#35762;&amp;# 20013; & amp;
+#25991;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 113 < /phraseID> < catID > 4 < /catID > < phraseOrder > 3 < /phraseOrder> < englishPhrase > What is your name ? < /englishPhrase > < romanized > nee jeeyaw shenmaa ? < /romanized> < unicode > 你叫什么？ < /unicode > < phrase > & amp;
+#20320;&amp;# 21483; & amp;
+#20160;&amp;# 20040; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>114</phraseID>
+<catID>4</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>When is your birthday?</englishPhrase>
+<romanized>shenma shihow shi neede shengri?</romanized>
+<unicode>什么时候是你的生日？</unicode>
+<phrase>&amp;# 20160; & amp;
+#20040;&amp;# 26102; & amp;
+#20505;&amp;# 26159; & amp;
+#20320;&amp;# 30340; & amp;
+#29983;&amp;# 26085; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>115</phraseID>
+<catID>4</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Where were you born?</englishPhrase>
+<romanized>nee shi dzay na&apos;er choosheng de?</romanized>
+<unicode>你是在那儿出生的？</unicode>
+<phrase>&amp;# 20320; & amp;
+#26159;&amp;# 22312; & amp;
+#37027;&amp;# 20799; & amp;
+#20986;&amp;# 29983; & amp;
+#30340;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 116 < /phraseID> < catID > 4 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > What is your rank /
+title ? < /englishPhrase> < romanized > nee de jooynShee shi shenmaa ? /
+nee de Jeecheng shi shenmaa ? < /romanized > < unicode > 你的军衔？ / 职称是什么？ < /unicode> < phrase > & amp;
+#20320;&amp;# 30340; & amp;
+#20891;&amp;# 34900; & amp;
+#65311;  /  &amp;# 32844; & amp;
+#31216;&amp;# 26159; & amp;
+#20160;&amp;# 20040; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>118</phraseID>
+<catID>4</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>What is your nationality?</englishPhrase>
+<romanized>nee de gojee shi shenmaa?</romanized>
+<unicode>你的国籍是什么？</unicode>
+<phrase>&amp;# 20320; & amp;
+#30340;&amp;# 22269; & amp;
+#31821;&amp;# 26159; & amp;
+#20160;&amp;# 20040; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>119</phraseID>
+<catID>4</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Do you have any identification papers?</englishPhrase>
+<romanized>nee you shenmaa shenfen Jengmeeng ma?</romanized>
+<unicode>你有什么身份证明吗？</unicode>
+<phrase>&amp;# 20320; & amp;
+#26377;&amp;# 20160; & amp;
+#20040;&amp;# 36523; & amp;
+#20221;&amp;# 35777; & amp;
+#26126;&amp;# 21527; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>120</phraseID>
+<catID>4</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Do you have a passport?</englishPhrase>
+<romanized>nee you hooJaw ma?</romanized>
+<unicode>你有护照吗？</unicode>
+<phrase>&amp;# 20320; & amp;
+#26377;&amp;# 25252; & amp;
+#29031;&amp;# 21527; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>121</phraseID>
+<catID>4</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>What is your job?</englishPhrase>
+<romanized>nee de gongdzo shee shenmaa?</romanized>
+<unicode>你的工作是什么？</unicode>
+<phrase>&amp;# 20320; & amp;
+#30340;&amp;# 24037; & amp;
+#20316;&amp;# 26159; & amp;
+#20160;&amp;# 20040; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>122</phraseID>
+<catID>4</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Who is in charge?</englishPhrase>
+<romanized>shey foodze?</romanized>
+<unicode>谁负责？</unicode>
+<phrase>&amp;# 35841; & amp;
+#36127;&amp;# 36131; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>123</phraseID>
+<catID>4</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Where do you serve?</englishPhrase>
+<romanized>nee dzay na&apos;er foo ee?</romanized>
+<unicode>你在那儿服役？</unicode>
+<phrase>&amp;# 20320; & amp;
+#22312;&amp;# 37027; & amp;
+#20799;&amp;# 26381; & amp;
+#24441;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 124 < /phraseID> < catID > 4 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > Which group are you in ? < /englishPhrase > < romanized > nee dzay nage SheeyawJo ? < /romanized> < unicode > 你在哪个小组？ < /unicode > < phrase > & amp;
+#20320;&amp;# 22312; & amp;
+#21738;&amp;# 20010; & amp;
+#23567;&amp;# 32452; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>125</phraseID>
+<catID>4</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Answer the questions</englishPhrase>
+<romanized>hwayda wentee</romanized>
+<unicode>回答问题</unicode>
+<phrase>&amp;# 22238; & amp;
+#31572;&amp;# 38382; & amp;
+#39064;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>126</phraseID>
+<catID>4</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Where are you from?</englishPhrase>
+<romanized>nee tsong na&apos;er laay?</romanized>
+<unicode>你从哪儿来？</unicode>
+<phrase>&amp;# 20320; & amp;
+#20174;&amp;# 21738; & amp;
+#20799;&amp;# 26469; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>127</phraseID>
+<catID>4</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Do you understand?</englishPhrase>
+<romanized>nee dong ma?</romanized>
+<unicode>你懂吗？</unicode>
+<phrase>&amp;# 20320; & amp;
+#25026;&amp;# 21527; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>128</phraseID>
+<catID>4</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>I don&apos;t understand.</englishPhrase>
+<romanized>wo boo dong</romanized>
+<unicode>我不懂。</unicode>
+<phrase>&amp;# 25105; & amp;
+#19981;&amp;# 25026; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>129</phraseID>
+<catID>4</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>How much?</englishPhrase>
+<romanized>doshaw?</romanized>
+<unicode>多少？</unicode>
+<phrase>&amp;# 22810; & amp;
+#23569;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 130 < /phraseID> < catID > 4 < /catID > < phraseOrder > 19 < /phraseOrder> < englishPhrase > How many ? < /englishPhrase > < romanized > doshaw ? < /romanized> < unicode > 多少？ < /unicode > < phrase > & amp;
+#22810;&amp;# 23569; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>131</phraseID>
+<catID>4</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Repeat it</englishPhrase>
+<romanized>chongfoo</romanized>
+<unicode>重复</unicode>
+<phrase>&amp;# 37325; & amp;
+#22797;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>132</phraseID>
+<catID>4</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Where is ___?</englishPhrase>
+<romanized>___ dzey na&apos;er?</romanized>
+<unicode>___ 在哪儿？</unicode>
+<phrase>___ &amp;# 22312; & amp;
+#21738;&amp;# 20799; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>133</phraseID>
+<catID>4</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>What direction?</englishPhrase>
+<romanized>nago fang Sheeyang?</romanized>
+<unicode>哪个方向？</unicode>
+<phrase>&amp;# 21738; & amp;
+#20010;&amp;# 26041; & amp;
+#21521;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 134 < /phraseID> < catID > 4 < /catID > < phraseOrder > 23 < /phraseOrder> < englishPhrase > Is it far ? < /englishPhrase > < romanized > yo - an ma ? < /romanized> < unicode > 远吗？ < /unicode > < phrase > & amp;
+#36828;&amp;# 21527; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>135</phraseID>
+<catID>4</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Are there armed men near here?</englishPhrase>
+<romanized>fujeen you woJwang fendze ma?</romanized>
+<unicode>附近有武装份子吗？</unicode>
+<phrase>&amp;# 38468; & amp;
+#36817;&amp;# 26377; & amp;
+#27494;&amp;# 35013; & amp;
+#20221;&amp;# 23376; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 136 < /phraseID> < catID > 4 < /catID > < phraseOrder > 25 < /phraseOrder> < englishPhrase > Where did they go ? < /englishPhrase > < romanized > tamen daw na & apos;
+er Chee le ? < /romanized> < unicode > 他们到哪儿去了？ < /unicode > < phrase > & amp;
+#20182;&amp;# 20204; & amp;
+#21040;&amp;# 21738; & amp;
+#20799;&amp;# 21435; & amp;
+#20102;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 137 < /phraseID> < catID > 4 < /catID > < phraseOrder > 26 < /phraseOrder> < englishPhrase > What weapons ? < /englishPhrase > < romanized > shunmaa woChee ? < /romanized> < unicode > 什么武器？ < /unicode > < phrase > & amp;
+#20160;&amp;# 20040; & amp;
+#27494;&amp;# 22120; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>138</phraseID>
+<catID>4</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Speak slowly</englishPhrase>
+<romanized>mandeen&apos;r jeeyang</romanized>
+<unicode>慢点儿讲</unicode>
+<phrase>&amp;# 24930; & amp;
+#28857;&amp;# 20799; & amp;
+#35762;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>139</phraseID>
+<catID>4</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Where is your unit?</englishPhrase>
+<romanized>nee de leeyandway dzey na&apos;er?</romanized>
+<unicode>你的连队在哪儿？</unicode>
+<phrase>&amp;# 20320; & amp;
+#30340;&amp;# 36830; & amp;
+#38431;&amp;# 22312; & amp;
+#21738;&amp;# 20799; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>140</phraseID>
+<catID>4</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Where did you see them?</englishPhrase>
+<romanized>nee dzey na&apos;er jeeyan tamen le?</romanized>
+<unicode>你在哪儿见他们了？</unicode>
+<phrase>&amp;# 20320; & amp;
+#22312;&amp;# 21738; & amp;
+#20799;&amp;# 35265; & amp;
+#20182;&amp;# 20204; & amp;
+#20102;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 141 < /phraseID> < catID > 4 < /catID > < phraseOrder > 30 < /phraseOrder> < englishPhrase > Where is your family ? < /englishPhrase > < romanized > neemen jeeya dzey na & apos;
+er ? < /romanized> < unicode > 你们家在哪儿？ < /unicode > < phrase > & amp;
+#20320;&amp;# 20204; & amp;
+#23478;&amp;# 22312; & amp;
+#21738;&amp;# 20799; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>143</phraseID>
+<catID>5</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>0    Zero</englishPhrase>
+<romanized> 0 leeyng</romanized>
+<unicode>0  零</unicode>
+<phrase>0 &amp;# 38646; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 144 < /phraseID> < catID > 5 < /catID > < phraseOrder > 2 < /phraseOrder> < englishPhrase > 1 One < /englishPhrase > < romanized > 1e e < /romanized> < unicode > 1 一 < /unicode > < phrase > 1 & amp;
+#19968;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>145</phraseID>
+<catID>5</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>2    Two</englishPhrase>
+<romanized> 2 aar</romanized>
+<unicode>2  二</unicode>
+<phrase>2 &amp;# 20108; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 146 < /phraseID> < catID > 5 < /catID > < phraseOrder > 4 < /phraseOrder> < englishPhrase > 3 Three < /englishPhrase > < romanized > 3 san < /romanized> < unicode > 3 三 < /unicode > < phrase > 3 & amp;
+#19977;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>147</phraseID>
+<catID>5</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>4    Four</englishPhrase>
+<romanized> 4 si</romanized>
+<unicode>4 四</unicode>
+<phrase>4 &amp;# 22235; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 148 < /phraseID> < catID > 5 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > 5 Five < /englishPhrase > < romanized > 5 wo < /romanized> < unicode > 5 五 < /unicode > < phrase > 5 & amp;
+#20116;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>149</phraseID>
+<catID>5</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>6    Six</englishPhrase>
+<romanized> 6 leeyo</romanized>
+<unicode>6 六</unicode>
+<phrase>6 &amp;# 20845; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 150 < /phraseID> < catID > 5 < /catID > < phraseOrder > 8 < /phraseOrder> < englishPhrase > 7 Seven < /englishPhrase > < romanized > 7 Chee < /romanized> < unicode > 7 七 < /unicode > < phrase > 7 & amp;
+#19971;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>151</phraseID>
+<catID>5</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>8    Eight</englishPhrase>
+<romanized> 8 ba</romanized>
+<unicode>8 八</unicode>
+<phrase>8 &amp;# 20843; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 152 < /phraseID> < catID > 5 < /catID > < phraseOrder > 10 < /phraseOrder> < englishPhrase > 9 Nine < /englishPhrase > < romanized > 9 jeeyo < /romanized> < unicode > 9 九 < /unicode > < phrase > 9 & amp;
+#20061;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>153</phraseID>
+<catID>5</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>10    Ten</englishPhrase>
+<romanized>10 shi</romanized>
+<unicode>10 十</unicode>
+<phrase>10 &amp;# 21313; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 154 < /phraseID> < catID > 5 < /catID > < phraseOrder > 12 < /phraseOrder> < englishPhrase > 11 Eleven < /englishPhrase > < romanized > 11 shi & apos;
+ee < /romanized> < unicode > 11 十一 < /unicode > < phrase > 11 & amp;
+#21313;&amp;# 19968; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 155 < /phraseID> < catID > 5 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > 12 Twelve < /englishPhrase > < romanized > 12 shee & apos;
+er < /romanized> < unicode > 12 十二 < /unicode > < phrase > 12 & amp;
+#21313;&amp;# 20108; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 156 < /phraseID> < catID > 5 < /catID > < phraseOrder > 14 < /phraseOrder> < englishPhrase > 13 Thirteen < /englishPhrase > < romanized > 13 sheesan < /romanized> < unicode > 13 十三 < /unicode > < phrase > 13 & amp;
+#21313;&amp;# 19977; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 157 < /phraseID> < catID > 5 < /catID > < phraseOrder > 15 < /phraseOrder> < englishPhrase > 14 Fourteen < /englishPhrase > < romanized > 14 sheesi < /romanized> < unicode > 14 十四 < /unicode > < phrase > 14 & amp;
+#21313;&amp;# 22235; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 158 < /phraseID> < catID > 5 < /catID > < phraseOrder > 16 < /phraseOrder> < englishPhrase > 15 Fifteen < /englishPhrase > < romanized > 15 sheeywo < /romanized> < unicode > 15 十五 < /unicode > < phrase > 15 & amp;
+#21313;&amp;# 20116; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 159 < /phraseID> < catID > 5 < /catID > < phraseOrder > 17 < /phraseOrder> < englishPhrase > 16 Sixteen < /englishPhrase > < romanized > 16 sheeleeyo < /romanized> < unicode > 16 十六 < /unicode > < phrase > 16 & amp;
+#21313;&amp;# 20845; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 160 < /phraseID> < catID > 5 < /catID > < phraseOrder > 18 < /phraseOrder> < englishPhrase > 17 Seventeen < /englishPhrase > < romanized > 17 sheeChee < /romanized> < unicode > 17 十七 < /unicode > < phrase > 17 & amp;
+#21313;&amp;# 19971; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 161 < /phraseID> < catID > 5 < /catID > < phraseOrder > 19 < /phraseOrder> < englishPhrase > 18 Eighteen < /englishPhrase > < romanized > 18 sheeba < /romanized> < unicode > 18 十八 < /unicode > < phrase > 18 & amp;
+#21313;&amp;# 20843; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 162 < /phraseID> < catID > 5 < /catID > < phraseOrder > 20 < /phraseOrder> < englishPhrase > 19 Nineteen < /englishPhrase > < romanized > 19 sheejeeyo < /romanized> < unicode > 19 十九 < /unicode > < phrase > 19 & amp;
+#21313;&amp;# 20061; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 163 < /phraseID> < catID > 5 < /catID > < phraseOrder > 21 < /phraseOrder> < englishPhrase > 20 Twenty < /englishPhrase > < romanized > 20 ershi < /romanized> < unicode > 20 二十 < /unicode > < phrase > 20 & amp;
+#20108;&amp;# 21313; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 164 < /phraseID> < catID > 5 < /catID > < phraseOrder > 22 < /phraseOrder> < englishPhrase > 30 Thirty < /englishPhrase > < romanized > 30 sanshi < /romanized> < unicode > 30 三十 < /unicode > < phrase > 30 & amp;
+#19977;&amp;# 21313; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 165 < /phraseID> < catID > 5 < /catID > < phraseOrder > 23 < /phraseOrder> < englishPhrase > 40 Forty < /englishPhrase > < romanized > 40 sishi < /romanized> < unicode > 40 四十 < /unicode > < phrase > 40 & amp;
+#22235;&amp;# 21313; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 166 < /phraseID> < catID > 5 < /catID > < phraseOrder > 24 < /phraseOrder> < englishPhrase > 50 Fifty < /englishPhrase > < romanized > 50 woshi < /romanized> < unicode > 50 五十 < /unicode > < phrase > 50 & amp;
+#20116;&amp;# 21313; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 167 < /phraseID> < catID > 5 < /catID > < phraseOrder > 25 < /phraseOrder> < englishPhrase > 60 Sixty < /englishPhrase > < romanized > 60 leeyoshi < /romanized> < unicode > 60 六十 < /unicode > < phrase > 60 & amp;
+#20845;&amp;# 21313; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 168 < /phraseID> < catID > 5 < /catID > < phraseOrder > 26 < /phraseOrder> < englishPhrase > 70 Seventy < /englishPhrase > < romanized > 70 Cheeshi < /romanized> < unicode > 70 七十 < /unicode > < phrase > 70 & amp;
+#19971;&amp;# 21313; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 170 < /phraseID> < catID > 5 < /catID > < phraseOrder > 28 < /phraseOrder> < englishPhrase > 90 Ninety < /englishPhrase > < romanized > 90 jeeyoshi < /romanized> < unicode > 90 九十 < /unicode > < phrase > 90 & amp;
+#20061;&amp;# 21313; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 171 < /phraseID> < catID > 5 < /catID > < phraseOrder > 29 < /phraseOrder> < englishPhrase > 100 Hundred < /englishPhrase > < romanized > 100 eeybay < /romanized> < unicode > 100 一百 < /unicode > < phrase > 100 & amp;
+#19968;&amp;# 30334; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 172 < /phraseID> < catID > 5 < /catID > < phraseOrder > 30 < /phraseOrder> < englishPhrase > 1, 000 Thousand < /englishPhrase > < romanized > 1, 000 eeyCheeyan < /romanized> < unicode > 1, 000 一千 < /unicode > < phrase > 1, 000 & amp;
+#19968;&amp;# 21315; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 173 < /phraseID> < catID > 5 < /catID > < phraseOrder > 31 < /phraseOrder> < englishPhrase > 10, 000 Ten Thousand < /englishPhrase > < romanized > 10, 000 yeewan < /romanized> < unicode > 10, 000 一万 < /unicode > < phrase > 10, 000 & amp;
+#19968;&amp;# 19975; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 174 < /phraseID> < catID > 5 < /catID > < phraseOrder > 32 < /phraseOrder> < englishPhrase > 100, 000 Hundred Thousand < /englishPhrase > < romanized > 100, 000 shiwan < /romanized> < unicode > 100, 000 十万 < /unicode > < phrase > 100, 000 & amp;
+#21313;&amp;# 19975; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 175 < /phraseID> < catID > 5 < /catID > < phraseOrder > 33 < /phraseOrder> < englishPhrase > 1, 000, 000 Million < /englishPhrase > < romanized > 1, 000, 000 eeybaywan < /romanized> < unicode > 1, 000, 000 一百万 < /unicode > < phrase > 1, 000, 000 & amp;
+#19968;&amp;# 30334; & amp;
+#19975;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>176</phraseID>
+<catID>5</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>Plus</englishPhrase>
+<romanized>jeeya</romanized>
+<unicode>加</unicode>
+<phrase>&amp;# 21152; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 177 < /phraseID> < catID > 5 < /catID > < phraseOrder > 35 < /phraseOrder> < englishPhrase > Minus < /englishPhrase > < romanized > jeeyen < /romanized> < unicode > 减 < /unicode > < phrase > & amp;
+#20943;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>178</phraseID>
+<catID>5</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>More (than)</englishPhrase>
+<romanized>dwoyu</romanized>
+<unicode>多于</unicode>
+<phrase>&amp;# 22810; & amp;
+#20110;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>179</phraseID>
+<catID>5</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>Less (than)</englishPhrase>
+<romanized>shawyo</romanized>
+<unicode>少于</unicode>
+<phrase>&amp;# 23569; & amp;
+#20110;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>180</phraseID>
+<catID>5</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>Approximately</englishPhrase>
+<romanized>daagey</romanized>
+<unicode>大概</unicode>
+<phrase>&amp;# 22823; & amp;
+#27010;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>181</phraseID>
+<catID>5</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>First</englishPhrase>
+<romanized>dee yee</romanized>
+<unicode>第一</unicode>
+<phrase>&amp;# 31532; & amp;
+#19968;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>182</phraseID>
+<catID>5</catID>
+<phraseOrder>40</phraseOrder>
+<englishPhrase>Second</englishPhrase>
+<romanized>dee&apos;er</romanized>
+<unicode>第二</unicode>
+<phrase>&amp;# 31532; & amp;
+#20108;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>183</phraseID>
+<catID>5</catID>
+<phraseOrder>41</phraseOrder>
+<englishPhrase>Third</englishPhrase>
+<romanized>deesan</romanized>
+<unicode>第三</unicode>
+<phrase>&amp;# 31532; & amp;
+#19977;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>184</phraseID>
+<catID>6</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Sunday</englishPhrase>
+<romanized>SheengChee er</romanized>
+<unicode>星期日</unicode>
+<phrase>&amp;# 26143; & amp;
+#26399;&amp;# 26085; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 185 < /phraseID> < catID > 6 < /catID > < phraseOrder > 2 < /phraseOrder> < englishPhrase > Monday < /englishPhrase > < romanized > SheengChee ee < /romanized> < unicode > 星期一 < /unicode > < phrase > & amp;
+#26143;&amp;# 26399; & amp;
+#19968;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>186</phraseID>
+<catID>6</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Tuesday</englishPhrase>
+<romanized>SheengChee aar</romanized>
+<unicode>星期二</unicode>
+<phrase>&amp;# 26143; & amp;
+#26399;&amp;# 20108; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 187 < /phraseID> < catID > 6 < /catID > < phraseOrder > 4 < /phraseOrder> < englishPhrase > Wednesday < /englishPhrase > < romanized > SheengCheesan < /romanized> < unicode > 星期三 < /unicode > < phrase > & amp;
+#26143;&amp;# 26399; & amp;
+#19977;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>188</phraseID>
+<catID>6</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Thursday</englishPhrase>
+<romanized>SheengCheesi</romanized>
+<unicode>星期四</unicode>
+<phrase>&amp;# 26143; & amp;
+#26399;&amp;# 22235; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 189 < /phraseID> < catID > 6 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Friday < /englishPhrase > < romanized > SheengCheewo < /romanized> < unicode > 星期五 < /unicode > < phrase > & amp;
+#26143;&amp;# 26399; & amp;
+#20116;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>190</phraseID>
+<catID>6</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Saturday</englishPhrase>
+<romanized>SheengCheeleeyo</romanized>
+<unicode>星期六</unicode>
+<phrase>&amp;# 26143; & amp;
+#26399;&amp;# 20845; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 191 < /phraseID> < catID > 6 < /catID > < phraseOrder > 8 < /phraseOrder> < englishPhrase > Yesterday < /englishPhrase > < romanized > dzwoteeyan < /romanized> < unicode > 昨天 < /unicode > < phrase > & amp;
+#26152;&amp;# 22825; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 192 < /phraseID> < catID > 6 < /catID > < phraseOrder > 9 < /phraseOrder> < englishPhrase > Today < /englishPhrase > < romanized > jeenteeyan < /romanized> < unicode > 今天 < /unicode > < phrase > & amp;
+#20170;&amp;# 22825; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 193 < /phraseID> < catID > 6 < /catID > < phraseOrder > 10 < /phraseOrder> < englishPhrase > Tomorrow < /englishPhrase > < romanized > meengteeyan < /romanized> < unicode > 明天 < /unicode > < phrase > & amp;
+#26126;&amp;# 22825; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 194 < /phraseID> < catID > 6 < /catID > < phraseOrder > 11 < /phraseOrder> < englishPhrase > Day < /englishPhrase > < romanized > bayteeyan < /romanized> < unicode > 白天 < /unicode > < phrase > & amp;
+#30333;&amp;# 22825; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 195 < /phraseID> < catID > 6 < /catID > < phraseOrder > 12 < /phraseOrder> < englishPhrase > Night < /englishPhrase > < romanized > wanshang < /romanized> < unicode > 晚上 < /unicode > < phrase > & amp;
+#26202;&amp;# 19978; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 196 < /phraseID> < catID > 6 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > Week < /englishPhrase > < romanized > SheengChee < /romanized> < unicode > 星期 < /unicode > < phrase > & amp;
+#26143;&amp;# 26399; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 197 < /phraseID> < catID > 6 < /catID > < phraseOrder > 14 < /phraseOrder> < englishPhrase > Month < /englishPhrase > < romanized > youe < /romanized> < unicode > 月 < /unicode > < phrase > & amp;
+#26376;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>198</phraseID>
+<catID>6</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Year</englishPhrase>
+<romanized>neeyen</romanized>
+<unicode>年</unicode>
+<phrase>&amp;# 24180; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 199 < /phraseID> < catID > 6 < /catID > < phraseOrder > 16 < /phraseOrder> < englishPhrase > Second < /englishPhrase > < romanized > meeyaw < /romanized> < unicode > 秒 < /unicode > < phrase > & amp;
+#31186;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>200</phraseID>
+<catID>6</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Minute</englishPhrase>
+<romanized>fen</romanized>
+<unicode>分</unicode>
+<phrase>&amp;# 20998; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 201 < /phraseID> < catID > 6 < /catID > < phraseOrder > 18 < /phraseOrder> < englishPhrase > Hour < /englishPhrase > < romanized > shi < /romanized> < unicode > 时 < /unicode > < phrase > & amp;
+#26102;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>202</phraseID>
+<catID>6</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Morning</englishPhrase>
+<romanized>dzaashang</romanized>
+<unicode>早上</unicode>
+<phrase>&amp;# 26089; & amp;
+#19978;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>203</phraseID>
+<catID>6</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Evening</englishPhrase>
+<romanized>wanshaang</romanized>
+<unicode>晚上</unicode>
+<phrase>&amp;# 26202; & amp;
+#19978;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>204</phraseID>
+<catID>6</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Noon</englishPhrase>
+<romanized>Jongwo</romanized>
+<unicode>中午</unicode>
+<phrase>&amp;# 20013; & amp;
+#21320;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>206</phraseID>
+<catID>6</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Midnight</englishPhrase>
+<romanized>banye</romanized>
+<unicode>半夜</unicode>
+<phrase>&amp;# 21322; & amp;
+#22812;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>207</phraseID>
+<catID>6</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Now</englishPhrase>
+<romanized>Sheeyandzey</romanized>
+<unicode>现在</unicode>
+<phrase>&amp;# 29616; & amp;
+#22312;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>208</phraseID>
+<catID>6</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Later</englishPhrase>
+<romanized>eeyho</romanized>
+<unicode>以后</unicode>
+<phrase>&amp;# 20197; & amp;
+#21518;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>209</phraseID>
+<catID>7</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Above ___ / Over ___</englishPhrase>
+<romanized>dzay ___ shang</romanized>
+<unicode>在 ___ 上</unicode>
+<phrase>&amp;# 22312;
+___ & amp;
+#19978;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>210</phraseID>
+<catID>7</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>After ___ / Past ___</englishPhrase>
+<romanized>dzay ___ ho</romanized>
+<unicode>在 ___ 后</unicode>
+<phrase>&amp;# 22312;
+___ & amp;
+#21518;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>211</phraseID>
+<catID>7</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Back / Behind</englishPhrase>
+<romanized>homeeyan</romanized>
+<unicode>后面</unicode>
+<phrase>&amp;# 21518; & amp;
+#38754;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>212</phraseID>
+<catID>7</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Before ___ / In front of ___ / Forward ___</englishPhrase>
+<romanized>dzai ___ Cheeyanmeeyan</romanized>
+<unicode>在 ___前面</unicode>
+<phrase>&amp;# 22312;
+___ & amp;
+#21069;&amp;# 38754; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 214 < /phraseID> < catID > 7 < /catID > < phraseOrder > 5 < /phraseOrder> < englishPhrase > Between ___ < /englishPhrase > < romanized > dzay ___ Jeejeeyan < /romanized> < unicode > 在 ___ 之间 < /unicode > < phrase > & amp;
+#22312; ___ &amp;# 20043; & amp;
+#38388;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>215</phraseID>
+<catID>7</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Coordinates</englishPhrase>
+<romanized>Sheeye tee aw</romanized>
+<unicode>协调</unicode>
+<phrase>&amp;# 21327; & amp;
+#35843;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>216</phraseID>
+<catID>7</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Degrees</englishPhrase>
+<romanized>Sho-ewey</romanized>
+<unicode>学位</unicode>
+<phrase>&amp;# 23398; & amp;
+#20301;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>217</phraseID>
+<catID>7</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Down</englishPhrase>
+<romanized>Sheeya</romanized>
+<unicode>下</unicode>
+<phrase>&amp;# 19979; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 218 < /phraseID> < catID > 7 < /catID > < phraseOrder > 9 < /phraseOrder> < englishPhrase > East < /englishPhrase > < romanized > dong < /romanized> < unicode > 东 < /unicode > < phrase > & amp;
+#19996;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>219</phraseID>
+<catID>7</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Far</englishPhrase>
+<romanized>yoo-an</romanized>
+<unicode>远</unicode>
+<phrase>&amp;# 36828; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 220 < /phraseID> < catID > 7 < /catID > < phraseOrder > 11 < /phraseOrder> < englishPhrase > Longitude < /englishPhrase > < romanized > jeengSheeyan < /romanized> < unicode > 经线 < /unicode > < phrase > & amp;
+#32463;&amp;# 32447; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 221 < /phraseID> < catID > 7 < /catID > < phraseOrder > 12 < /phraseOrder> < englishPhrase > Left < /englishPhrase > < romanized > dzwo aa < /romanized> < unicode > 左 < /unicode > < phrase > & amp;
+#24038;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>222</phraseID>
+<catID>7</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Latitude</englishPhrase>
+<romanized>weySheeyan</romanized>
+<unicode>纬线</unicode>
+<phrase>&amp;# 32428; & amp;
+#32447;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>223</phraseID>
+<catID>7</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>My position is ___.</englishPhrase>
+<romanized>wo de weyJee shi ___</romanized>
+<unicode>我的位置是 ___。</unicode>
+<phrase>&amp;# 25105; & amp;
+#30340;&amp;# 20301; & amp;
+#32622;&amp;# 26159;
+___ & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>224</phraseID>
+<catID>7</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Near</englishPhrase>
+<romanized>kawjeen</romanized>
+<unicode>靠近</unicode>
+<phrase>&amp;# 38752; & amp;
+#36817;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>225</phraseID>
+<catID>7</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>North</englishPhrase>
+<romanized>bay</romanized>
+<unicode>北</unicode>
+<phrase>&amp;# 21271; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 226 < /phraseID> < catID > 7 < /catID > < phraseOrder > 17 < /phraseOrder> < englishPhrase > Northeast < /englishPhrase > < romanized > dongbay < /romanized> < unicode > 东北 < /unicode > < phrase > & amp;
+#19996;&amp;# 21271; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 227 < /phraseID> < catID > 7 < /catID > < phraseOrder > 18 < /phraseOrder> < englishPhrase > Northwest < /englishPhrase > < romanized > Sheebay < /romanized> < unicode > 西北 < /unicode > < phrase > & amp;
+#35199;&amp;# 21271; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 228 < /phraseID> < catID > 7 < /catID > < phraseOrder > 19 < /phraseOrder> < englishPhrase > Right < /englishPhrase > < romanized > eeyo < /romanized> < unicode > 右 < /unicode > < phrase > & amp;
+#21491;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>229</phraseID>
+<catID>7</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>South</englishPhrase>
+<romanized>nan</romanized>
+<unicode>南</unicode>
+<phrase>&amp;# 21335; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 230 < /phraseID> < catID > 7 < /catID > < phraseOrder > 21 < /phraseOrder> < englishPhrase > Southeast < /englishPhrase > < romanized > dongnan < /romanized> < unicode > 东南 < /unicode > < phrase > & amp;
+#19996;&amp;# 21335; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 231 < /phraseID> < catID > 7 < /catID > < phraseOrder > 22 < /phraseOrder> < englishPhrase > Southwest < /englishPhrase > < romanized > Sheenan < /romanized> < unicode > 西南 < /unicode > < phrase > & amp;
+#35199;&amp;# 21335; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 232 < /phraseID> < catID > 7 < /catID > < phraseOrder > 23 < /phraseOrder> < englishPhrase > Straight ahead. < /englishPhrase > < romanized > yeeJeSheeyangCheeyan < /romanized> < unicode > 一直向前。 < /unicode > < phrase > & amp;
+#19968;&amp;# 30452; & amp;
+#21521;&amp;# 21069; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>233</phraseID>
+<catID>7</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Under ___</englishPhrase>
+<romanized>dzay ___ Sheeyaa</romanized>
+<unicode>在 ___ 下</unicode>
+<phrase>&amp;# 22312;
+___ & amp;
+#19979;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>234</phraseID>
+<catID>7</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Up</englishPhrase>
+<romanized>shang</romanized>
+<unicode>上</unicode>
+<phrase>&amp;# 19978; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 235 < /phraseID> < catID > 7 < /catID > < phraseOrder > 26 < /phraseOrder> < englishPhrase > West < /englishPhrase > < romanized > Shee < /romanized> < unicode > 西 < /unicode > < phrase > & amp;
+#35199;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>242</phraseID>
+<catID>8</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Beach</englishPhrase>
+<romanized>haytan</romanized>
+<unicode>海滩</unicode>
+<phrase>&amp;# 28023; & amp;
+#28393;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>243</phraseID>
+<catID>8</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Border</englishPhrase>
+<romanized>beeyenjeeng</romanized>
+<unicode>边境</unicode>
+<phrase>&amp;# 36793; & amp;
+#22659;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>244</phraseID>
+<catID>8</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Bridge</englishPhrase>
+<romanized>Cheeyaw</romanized>
+<unicode>桥</unicode>
+<phrase>&amp;# 26725; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 245 < /phraseID> < catID > 8 < /catID > < phraseOrder > 4 < /phraseOrder> < englishPhrase > Camp < /englishPhrase > < romanized > yeengdee < /romanized> < unicode > 营地 < /unicode > < phrase > & amp;
+#33829;&amp;# 22320; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 246 < /phraseID> < catID > 8 < /catID > < phraseOrder > 5 < /phraseOrder> < englishPhrase > Dirt road < /englishPhrase > < romanized > tooloo < /romanized> < unicode > 土路 < /unicode > < phrase > & amp;
+#22303;&amp;# 36335; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 247 < /phraseID> < catID > 8 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Forest < /englishPhrase > < romanized > senleen < /romanized> < unicode > 森林 < /unicode > < phrase > & amp;
+#26862;&amp;# 26519; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 248 < /phraseID> < catID > 8 < /catID > < phraseOrder > 7 < /phraseOrder> < englishPhrase > Harbor < /englishPhrase > < romanized > haygaang < /romanized> < unicode > 海港 < /unicode > < phrase > & amp;
+#28023;&amp;# 28207; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 249 < /phraseID> < catID > 8 < /catID > < phraseOrder > 8 < /phraseOrder> < englishPhrase > Hill < /englishPhrase > < romanized > shan < /romanized> < unicode > 山 < /unicode > < phrase > & amp;
+#23665;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>250</phraseID>
+<catID>8</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>House</englishPhrase>
+<romanized>faangdzi</romanized>
+<unicode>房子</unicode>
+<phrase>&amp;# 25151; & amp;
+#23376;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>251</phraseID>
+<catID>8</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Lake</englishPhrase>
+<romanized>hoo</romanized>
+<unicode>湖</unicode>
+<phrase>&amp;# 28246; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 252 < /phraseID> < catID > 8 < /catID > < phraseOrder > 11 < /phraseOrder> < englishPhrase > Meadow < /englishPhrase > < romanized > tsawdee < /romanized> < unicode > 草地 < /unicode > < phrase > & amp;
+#33609;&amp;# 22320; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 253 < /phraseID> < catID > 8 < /catID > < phraseOrder > 12 < /phraseOrder> < englishPhrase > Mountain < /englishPhrase > < romanized > shan < /romanized> < unicode > 山 < /unicode > < phrase > & amp;
+#23665;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>254</phraseID>
+<catID>8</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Ocean</englishPhrase>
+<romanized>heyaang</romanized>
+<unicode>海洋</unicode>
+<phrase>&amp;# 28023; & amp;
+#27915;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>255</phraseID>
+<catID>8</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Path</englishPhrase>
+<romanized>dawlo</romanized>
+<unicode>道路</unicode>
+<phrase>&amp;# 36947; & amp;
+#36335;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>256</phraseID>
+<catID>8</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Paved road</englishPhrase>
+<romanized>poohaw de lo</romanized>
+<unicode>铺好的路</unicode>
+<phrase>&amp;# 38138; & amp;
+#22909;&amp;# 30340; & amp;
+#36335;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>257</phraseID>
+<catID>8</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Place</englishPhrase>
+<romanized>deefang</romanized>
+<unicode>地方</unicode>
+<phrase>&amp;# 22320; & amp;
+#26041;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>258</phraseID>
+<catID>8</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Position</englishPhrase>
+<romanized>weyJi</romanized>
+<unicode>位置</unicode>
+<phrase>&amp;# 20301; & amp;
+#32622;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>259</phraseID>
+<catID>8</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>River</englishPhrase>
+<romanized>heleeyo</romanized>
+<unicode>河流</unicode>
+<phrase>&amp;# 27827; & amp;
+#27969;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>260</phraseID>
+<catID>8</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Road</englishPhrase>
+<romanized>dawloo</romanized>
+<unicode>道路</unicode>
+<phrase>&amp;# 36947; & amp;
+#36335;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>261</phraseID>
+<catID>8</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Sea</englishPhrase>
+<romanized>hay</romanized>
+<unicode>海</unicode>
+<phrase>&amp;# 28023; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 262 < /phraseID> < catID > 8 < /catID > < phraseOrder > 21 < /phraseOrder> < englishPhrase > Square < /englishPhrase > < romanized > gwangchaang < /romanized> < unicode > 广场 < /unicode > < phrase > & amp;
+#24191;&amp;# 22330; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 263 < /phraseID> < catID > 8 < /catID > < phraseOrder > 22 < /phraseOrder> < englishPhrase > Tree < /englishPhrase > < romanized > shoo < /romanized> < unicode > 树 < /unicode > < phrase > & amp;
+#26641;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>264</phraseID>
+<catID>8</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Valley</englishPhrase>
+<romanized>shangoo</romanized>
+<unicode>山谷</unicode>
+<phrase>&amp;# 23665; & amp;
+#35895;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>265</phraseID>
+<catID>8</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Village</englishPhrase>
+<romanized>tsunJwang</romanized>
+<unicode>村庄</unicode>
+<phrase>&amp;# 26449; & amp;
+#24196;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>266</phraseID>
+<catID>8</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Where?</englishPhrase>
+<romanized>naa&apos;er?</romanized>
+<unicode>哪儿？</unicode>
+<phrase>&amp;# 21738; & amp;
+#20799;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 267 < /phraseID> < catID > 9 < /catID > < phraseOrder > 1 < /phraseOrder> < englishPhrase > Black < /englishPhrase > < romanized > hee < /romanized> < unicode > 黑 < /unicode > < phrase > & amp;
+#40657;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>268</phraseID>
+<catID>9</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Blue</englishPhrase>
+<romanized>lanso</romanized>
+<unicode>兰色</unicode>
+<phrase>&amp;# 20848; & amp;
+#33394;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>269</phraseID>
+<catID>9</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Brown</englishPhrase>
+<romanized>kaafee so</romanized>
+<unicode>咖啡色</unicode>
+<phrase>&amp;# 21654; & amp;
+#21857;&amp;# 33394; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 270 < /phraseID> < catID > 9 < /catID > < phraseOrder > 4 < /phraseOrder> < englishPhrase > Gray < /englishPhrase > < romanized > hwayso < /romanized> < unicode > 灰色 < /unicode > < phrase > & amp;
+#28784;&amp;# 33394; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 271 < /phraseID> < catID > 9 < /catID > < phraseOrder > 5 < /phraseOrder> < englishPhrase > Green < /englishPhrase > < romanized > looyso < /romanized> < unicode > 绿色 < /unicode > < phrase > & amp;
+#32511;&amp;# 33394; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 272 < /phraseID> < catID > 9 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Orange < /englishPhrase > < romanized > jooyso < /romanized> < unicode > 橘色 < /unicode > < phrase > & amp;
+#27224;&amp;# 33394; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 273 < /phraseID> < catID > 9 < /catID > < phraseOrder > 7 < /phraseOrder> < englishPhrase > Purple < /englishPhrase > < romanized > dzeeso < /romanized> < unicode > 紫色 < /unicode > < phrase > & amp;
+#32043;&amp;# 33394; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 274 < /phraseID> < catID > 9 < /catID > < phraseOrder > 8 < /phraseOrder> < englishPhrase > Red < /englishPhrase > < romanized > hoongso < /romanized> < unicode > 红色 < /unicode > < phrase > & amp;
+#32418;&amp;# 33394; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 275 < /phraseID> < catID > 9 < /catID > < phraseOrder > 9 < /phraseOrder> < englishPhrase > White < /englishPhrase > < romanized > baayso < /romanized> < unicode > 白色 < /unicode > < phrase > & amp;
+#30333;&amp;# 33394; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 276 < /phraseID> < catID > 9 < /catID > < phraseOrder > 10 < /phraseOrder> < englishPhrase > Yellow < /englishPhrase > < romanized > ho aangso < /romanized> < unicode > 黄色 < /unicode > < phrase > & amp;
+#40644;&amp;# 33394; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 277 < /phraseID> < catID > 9 < /catID > < phraseOrder > 11 < /phraseOrder> < englishPhrase > Big < /englishPhrase > < romanized > daa < /romanized> < unicode > 大 < /unicode > < phrase > & amp;
+#22823;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>278</phraseID>
+<catID>9</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Deep</englishPhrase>
+<romanized>shen</romanized>
+<unicode>深</unicode>
+<phrase>&amp;# 28145; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 279 < /phraseID> < catID > 9 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > Long < /englishPhrase > < romanized > Jaang < /romanized> < unicode > 长 < /unicode > < phrase > & amp;
+#38271;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>280</phraseID>
+<catID>9</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Narrow</englishPhrase>
+<romanized>Jaa ey</romanized>
+<unicode>窄</unicode>
+<phrase>&amp;# 31364; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 281 < /phraseID> < catID > 9 < /catID > < phraseOrder > 15 < /phraseOrder> < englishPhrase > Short( in height) < /englishPhrase > < romanized > eye < /romanized> < unicode > 矮 < /unicode > < phrase > & amp;
+#30702;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>282</phraseID>
+<catID>9</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Short (in length)</englishPhrase>
+<romanized>doo an</romanized>
+<unicode>短</unicode>
+<phrase>&amp;# 30701; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 283 < /phraseID> < catID > 9 < /catID > < phraseOrder > 17 < /phraseOrder> < englishPhrase > Small, little < /englishPhrase > < romanized > Sheeyaw < /romanized> < unicode > 小 < /unicode > < phrase > & amp;
+#23567;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>284</phraseID>
+<catID>9</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Tall</englishPhrase>
+<romanized>gaw</romanized>
+<unicode>高</unicode>
+<phrase>&amp;# 39640; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 285 < /phraseID> < catID > 9 < /catID > < phraseOrder > 19 < /phraseOrder> < englishPhrase > Thick < /englishPhrase > < romanized > ho < /romanized> < unicode > 厚 < /unicode > < phrase > & amp;
+#21402;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>286</phraseID>
+<catID>9</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Thin</englishPhrase>
+<romanized>sho</romanized>
+<unicode>瘦</unicode>
+<phrase>&amp;# 30246; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 287 < /phraseID> < catID > 9 < /catID > < phraseOrder > 21 < /phraseOrder> < englishPhrase > Wide < /englishPhrase > < romanized > koo - an < /romanized> < unicode > 宽 < /unicode > < phrase > & amp;
+#23485;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>288</phraseID>
+<catID>9</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Round</englishPhrase>
+<romanized>yoo-an</romanized>
+<unicode>圆</unicode>
+<phrase>&amp;# 22278; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 289 < /phraseID> < catID > 9 < /catID > < phraseOrder > 23 < /phraseOrder> < englishPhrase > Straight < /englishPhrase > < romanized > Je < /romanized> < unicode > 直 < /unicode > < phrase > & amp;
+#30452;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>290</phraseID>
+<catID>9</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Square</englishPhrase>
+<romanized>faang</romanized>
+<unicode>方</unicode>
+<phrase>&amp;# 26041; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 291 < /phraseID> < catID > 9 < /catID > < phraseOrder > 25 < /phraseOrder> < englishPhrase > Triangular < /englishPhrase > < romanized > sanjeeyaw < /romanized> < unicode > 三角 < /unicode > < phrase > & amp;
+#19977;&amp;# 35282; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 292 < /phraseID> < catID > 9 < /catID > < phraseOrder > 26 < /phraseOrder> < englishPhrase > Bitter < /englishPhrase > < romanized > ko < /romanized> < unicode > 苦 < /unicode > < phrase > & amp;
+#33510;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>293</phraseID>
+<catID>9</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Fresh</englishPhrase>
+<romanized>SheenSheeyen</romanized>
+<unicode>新鲜</unicode>
+<phrase>&amp;# 26032; & amp;
+#40092;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>294</phraseID>
+<catID>9</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Salty</englishPhrase>
+<romanized>Sheeyin</romanized>
+<unicode>咸</unicode>
+<phrase>&amp;# 21688; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 295 < /phraseID> < catID > 9 < /catID > < phraseOrder > 29 < /phraseOrder> < englishPhrase > Sour < /englishPhrase > < romanized > soo an < /romanized> < unicode > 酸 < /unicode > < phrase > & amp;
+#37240;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>296</phraseID>
+<catID>9</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Spicy</englishPhrase>
+<romanized>la</romanized>
+<unicode>辣</unicode>
+<phrase>&amp;# 36771; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 297 < /phraseID> < catID > 9 < /catID > < phraseOrder > 31 < /phraseOrder> < englishPhrase > Sweet < /englishPhrase > < romanized > teeyan < /romanized> < unicode > 甜 < /unicode > < phrase > & amp;
+#29980;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>298</phraseID>
+<catID>9</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Bad</englishPhrase>
+<romanized>ho-ey</romanized>
+<unicode>坏</unicode>
+<phrase>&amp;# 22351; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 299 < /phraseID> < catID > 9 < /catID > < phraseOrder > 33 < /phraseOrder> < englishPhrase > Clean < /englishPhrase > < romanized > ganjeeng < /romanized> < unicode > 干净 < /unicode > < phrase > & amp;
+#24178;&amp;# 20928; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 300 < /phraseID> < catID > 9 < /catID > < phraseOrder > 34 < /phraseOrder> < englishPhrase > Dark < /englishPhrase > < romanized > hee - an < /romanized> < unicode > 黑暗 < /unicode > < phrase > & amp;
+#40657;&amp;# 26263; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 301 < /phraseID> < catID > 9 < /catID > < phraseOrder > 35 < /phraseOrder> < englishPhrase > Difficult < /englishPhrase > < romanized > nan < /romanized> < unicode > 难 < /unicode > < phrase > & amp;
+#38590;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>302</phraseID>
+<catID>9</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>Dirty</englishPhrase>
+<romanized>dzang</romanized>
+<unicode>脏</unicode>
+<phrase>&amp;# 33039; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 303 < /phraseID> < catID > 9 < /catID > < phraseOrder > 37 < /phraseOrder> < englishPhrase > Dry < /englishPhrase > < romanized > gan < /romanized> < unicode > 干 < /unicode > < phrase > & amp;
+#24178;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>304</phraseID>
+<catID>9</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>Easy</englishPhrase>
+<romanized>rongyee</romanized>
+<unicode>容易</unicode>
+<phrase>&amp;# 23481; & amp;
+#26131;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>305</phraseID>
+<catID>9</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>Empty</englishPhrase>
+<romanized>kong</romanized>
+<unicode>空</unicode>
+<phrase>&amp;# 31354; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 306 < /phraseID> < catID > 9 < /catID > < phraseOrder > 40 < /phraseOrder> < englishPhrase > Expensive < /englishPhrase > < romanized > go - ay < /romanized> < unicode > 贵 < /unicode > < phrase > & amp;
+#36149;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>307</phraseID>
+<catID>9</catID>
+<phraseOrder>41</phraseOrder>
+<englishPhrase>Fast</englishPhrase>
+<romanized>ku eye</romanized>
+<unicode>快</unicode>
+<phrase>&amp;# 24555; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 308 < /phraseID> < catID > 9 < /catID > < phraseOrder > 42 < /phraseOrder> < englishPhrase > Foreign < /englishPhrase > < romanized > mosheng < /romanized> < unicode > 陌生 < /unicode > < phrase > & amp;
+#38476;&amp;# 29983; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 309 < /phraseID> < catID > 9 < /catID > < phraseOrder > 43 < /phraseOrder> < englishPhrase > Full < /englishPhrase > < romanized > man < /romanized> < unicode > 满 < /unicode > < phrase > & amp;
+#28385;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>310</phraseID>
+<catID>9</catID>
+<phraseOrder>44</phraseOrder>
+<englishPhrase>Good</englishPhrase>
+<romanized>haw</romanized>
+<unicode>好</unicode>
+<phrase>&amp;# 22909; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 311 < /phraseID> < catID > 9 < /catID > < phraseOrder > 45 < /phraseOrder> < englishPhrase > Hard(firm) < /englishPhrase > < romanized > yeeng < /romanized> < unicode > 硬 < /unicode > < phrase > & amp;
+#30828;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>312</phraseID>
+<catID>9</catID>
+<phraseOrder>46</phraseOrder>
+<englishPhrase>Heavy</englishPhrase>
+<romanized>Jong</romanized>
+<unicode>重</unicode>
+<phrase>&amp;# 37325; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 313 < /phraseID> < catID > 9 < /catID > < phraseOrder > 47 < /phraseOrder> < englishPhrase > Inexpensive < /englishPhrase > < romanized > beeyaneey < /romanized> < unicode > 便宜 < /unicode > < phrase > & amp;
+#20415;&amp;# 23452; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 314 < /phraseID> < catID > 9 < /catID > < phraseOrder > 48 < /phraseOrder> < englishPhrase > Light(illumination) < /englishPhrase > < romanized > leeyang < /romanized> < unicode > 亮 < /unicode > < phrase > & amp;
+#20142;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>315</phraseID>
+<catID>9</catID>
+<phraseOrder>49</phraseOrder>
+<englishPhrase>Light (weight)</englishPhrase>
+<romanized>Cheeng</romanized>
+<unicode>轻</unicode>
+<phrase>&amp;# 36731; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 316 < /phraseID> < catID > 9 < /catID > < phraseOrder > 50 < /phraseOrder> < englishPhrase > Local < /englishPhrase > < romanized > bendee < /romanized> < unicode > 本地 < /unicode > < phrase > & amp;
+#26412;&amp;# 22320; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 317 < /phraseID> < catID > 9 < /catID > < phraseOrder > 51 < /phraseOrder> < englishPhrase > New < /englishPhrase > < romanized > Sheen < /romanized> < unicode > 新 < /unicode > < phrase > & amp;
+#26032;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>318</phraseID>
+<catID>9</catID>
+<phraseOrder>52</phraseOrder>
+<englishPhrase>Noisy</englishPhrase>
+<romanized>chawnaw</romanized>
+<unicode>吵闹</unicode>
+<phrase>&amp;# 21557; & amp;
+#38393;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>320</phraseID>
+<catID>9</catID>
+<phraseOrder>53</phraseOrder>
+<englishPhrase>Old (about things)</englishPhrase>
+<romanized>jeeyoo</romanized>
+<unicode>旧</unicode>
+<phrase>&amp;# 26087; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 321 < /phraseID> < catID > 9 < /catID > < phraseOrder > 54 < /phraseOrder> < englishPhrase > Old(about people) < /englishPhrase > < romanized > law < /romanized> < unicode > 老 < /unicode > < phrase > & amp;
+#32769;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>322</phraseID>
+<catID>9</catID>
+<phraseOrder>55</phraseOrder>
+<englishPhrase>Powerful</englishPhrase>
+<romanized>yolee</romanized>
+<unicode>有力</unicode>
+<phrase>&amp;# 26377; & amp;
+#21147;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>323</phraseID>
+<catID>9</catID>
+<phraseOrder>56</phraseOrder>
+<englishPhrase>Quiet</englishPhrase>
+<romanized>anjeeng</romanized>
+<unicode>安静</unicode>
+<phrase>&amp;# 23433; & amp;
+#38745;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>324</phraseID>
+<catID>9</catID>
+<phraseOrder>57</phraseOrder>
+<englishPhrase>Right / Correct</englishPhrase>
+<romanized>dway</romanized>
+<unicode>对</unicode>
+<phrase>&amp;# 23545; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 325 < /phraseID> < catID > 9 < /catID > < phraseOrder > 58 < /phraseOrder> < englishPhrase > Slow < /englishPhrase > < romanized > man < /romanized> < unicode > 慢 < /unicode > < phrase > & amp;
+#24930;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>326</phraseID>
+<catID>9</catID>
+<phraseOrder>59</phraseOrder>
+<englishPhrase>Soft</englishPhrase>
+<romanized>rwan</romanized>
+<unicode>软</unicode>
+<phrase>&amp;# 36719; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 327 < /phraseID> < catID > 9 < /catID > < phraseOrder > 60 < /phraseOrder> < englishPhrase > Very < /englishPhrase > < romanized > hen < /romanized> < unicode > 很 < /unicode > < phrase > & amp;
+#24456;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>328</phraseID>
+<catID>9</catID>
+<phraseOrder>61</phraseOrder>
+<englishPhrase>Weak</englishPhrase>
+<romanized>rwo</romanized>
+<unicode>弱</unicode>
+<phrase>&amp;# 24369; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 329 < /phraseID> < catID > 9 < /catID > < phraseOrder > 62 < /phraseOrder> < englishPhrase > Wet < /englishPhrase > < romanized > shi < /romanized> < unicode > 湿 < /unicode > < phrase > & amp;
+#28287;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>330</phraseID>
+<catID>9</catID>
+<phraseOrder>63</phraseOrder>
+<englishPhrase>Wrong / Incorrect</englishPhrase>
+<romanized>tswo</romanized>
+<unicode>错</unicode>
+<phrase>&amp;# 38169; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 331 < /phraseID> < catID > 9 < /catID > < phraseOrder > 64 < /phraseOrder> < englishPhrase > Young < /englishPhrase > < romanized > neeyanCheeng < /romanized> < unicode > 年轻 < /unicode > < phrase > & amp;
+#24180;&amp;# 36731; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 334 < /phraseID> < catID > 9 < /catID > < phraseOrder > 65 < /phraseOrder> < englishPhrase > Few /
+Little < /englishPhrase> < romanized > shaw < /romanized > < unicode > 少 < /unicode> < phrase > & amp;
+#23569;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>335</phraseID>
+<catID>9</catID>
+<phraseOrder>66</phraseOrder>
+<englishPhrase>Many / Much</englishPhrase>
+<romanized>do</romanized>
+<unicode>多</unicode>
+<phrase>&amp;# 22810; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 336 < /phraseID> < catID > 9 < /catID > < phraseOrder > 67 < /phraseOrder> < englishPhrase > Part < /englishPhrase > < romanized > boofen < /romanized> < unicode > 部分 < /unicode > < phrase > & amp;
+#37096;&amp;# 20998; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 337 < /phraseID> < catID > 9 < /catID > < phraseOrder > 68 < /phraseOrder> < englishPhrase > Some /
+A few < /englishPhrase> < romanized > yeeSheeye < /romanized > < unicode > 一些 < /unicode> < phrase > & amp;
+#19968;&amp;# 20123; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 339 < /phraseID> < catID > 9 < /catID > < phraseOrder > 69 < /phraseOrder> < englishPhrase > Whole < /englishPhrase > < romanized > Choo - anboo < /romanized> < unicode > 全部 < /unicode > < phrase > & amp;
+#20840;&amp;# 37096; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 340 < /phraseID> < catID > 10 < /catID > < phraseOrder > 1 < /phraseOrder> < englishPhrase > Emergency! < /englishPhrase > < romanized > jeenjee! < /romanized> < unicode > 紧急！ < /unicode > < phrase > & amp;
+#32039;&amp;# 24613; & amp;
+#65281;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>341</phraseID>
+<catID>10</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>We need a doctor!</englishPhrase>
+<romanized>women Shooyaw yee ge yeesheng!</romanized>
+<unicode>我们需要一个医生！</unicode>
+<phrase>&amp;# 25105; & amp;
+#20204;&amp;# 38656; & amp;
+#35201;&amp;# 19968; & amp;
+#20010;&amp;# 21307; & amp;
+#29983;&amp;# 65281; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 342 < /phraseID> < catID > 10 < /catID > < phraseOrder > 3 < /phraseOrder> < englishPhrase > Distress signal < /englishPhrase > < romanized > hojeeyoo Sheenhaw < /romanized> < unicode > 呼救信号 < /unicode > < phrase > & amp;
+#21628;&amp;# 25937; & amp;
+#20449;&amp;# 21495; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 343 < /phraseID> < catID > 10 < /catID > < phraseOrder > 4 < /phraseOrder> < englishPhrase > Help! < /englishPhrase > < romanized > jeeyomeeng! < /romanized> < unicode > 救命！ < /unicode > < phrase > & amp;
+#25937;&amp;# 21629; & amp;
+#65281;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>344</phraseID>
+<catID>10</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Evacuate the area!</englishPhrase>
+<romanized>shoosan!</romanized>
+<unicode>疏散！</unicode>
+<phrase>&amp;# 30095; & amp;
+#25955;&amp;# 65281; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 345 < /phraseID> < catID > 11 < /catID > < phraseOrder > 1 < /phraseOrder> < englishPhrase > Food < /englishPhrase > < romanized > shewo < /romanized> < unicode > 食物 < /unicode > < phrase > & amp;
+#39135;&amp;# 29289; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 346 < /phraseID> < catID > 11 < /catID > < phraseOrder > 2 < /phraseOrder> < englishPhrase > Can < /englishPhrase > < romanized > neng < /romanized> < unicode > 能 < /unicode > < phrase > & amp;
+#33021;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>347</phraseID>
+<catID>11</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Cup</englishPhrase>
+<romanized>beydzi</romanized>
+<unicode>杯子</unicode>
+<phrase>&amp;# 26479; & amp;
+#23376;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>348</phraseID>
+<catID>11</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Fork</englishPhrase>
+<romanized>chaadzi</romanized>
+<unicode>叉子</unicode>
+<phrase>&amp;# 21449; & amp;
+#23376;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>349</phraseID>
+<catID>11</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Knife</englishPhrase>
+<romanized>daw</romanized>
+<unicode>刀</unicode>
+<phrase>&amp;# 20992; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 350 < /phraseID> < catID > 11 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Plate < /englishPhrase > < romanized > bandzi < /romanized> < unicode > 盘子 < /unicode > < phrase > & amp;
+#30424;&amp;# 23376; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 351 < /phraseID> < catID > 11 < /catID > < phraseOrder > 7 < /phraseOrder> < englishPhrase > Spoon < /englishPhrase > < romanized > shodzi < /romanized> < unicode > 勺子 < /unicode > < phrase > & amp;
+#21242;&amp;# 23376; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 352 < /phraseID> < catID > 11 < /catID > < phraseOrder > 8 < /phraseOrder> < englishPhrase > Beans < /englishPhrase > < romanized > dodzi < /romanized> < unicode > 豆子 < /unicode > < phrase > & amp;
+#35910;&amp;# 23376; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 353 < /phraseID> < catID > 11 < /catID > < phraseOrder > 9 < /phraseOrder> < englishPhrase > Beer < /englishPhrase > < romanized > beejeeyo < /romanized> < unicode > 啤酒 < /unicode > < phrase > & amp;
+#21860;&amp;# 37202; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 354 < /phraseID> < catID > 11 < /catID > < phraseOrder > 10 < /phraseOrder> < englishPhrase > Bread < /englishPhrase > < romanized > meeyanbaw < /romanized> < unicode > 面包 < /unicode > < phrase > & amp;
+#38754;&amp;# 21253; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 355 < /phraseID> < catID > 11 < /catID > < phraseOrder > 11 < /phraseOrder> < englishPhrase > Butter < /englishPhrase > < romanized > huangyo < /romanized> < unicode > 黄油 < /unicode > < phrase > & amp;
+#40644;&amp;# 27833; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 356 < /phraseID> < catID > 11 < /catID > < phraseOrder > 12 < /phraseOrder> < englishPhrase > Cheese < /englishPhrase > < romanized > roolaw < /romanized> < unicode > 乳酪 < /unicode > < phrase > & amp;
+#20083;&amp;# 37226; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 357 < /phraseID> < catID > 11 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > Coffee < /englishPhrase > < romanized > kaafee < /romanized> < unicode > 咖啡 < /unicode > < phrase > & amp;
+#21654;&amp;# 21857; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 358 < /phraseID> < catID > 11 < /catID > < phraseOrder > 14 < /phraseOrder> < englishPhrase > Fish < /englishPhrase > < romanized > yu < /romanized> < unicode > 鱼 < /unicode > < phrase > & amp;
+#40060;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>359</phraseID>
+<catID>11</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Flour</englishPhrase>
+<romanized>meeyanfen</romanized>
+<unicode>面粉</unicode>
+<phrase>&amp;# 38754; & amp;
+#31881;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>360</phraseID>
+<catID>11</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Fruit</englishPhrase>
+<romanized>shoyego wa</romanized>
+<unicode>水果</unicode>
+<phrase>&amp;# 27700; & amp;
+#26524;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>361</phraseID>
+<catID>11</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Meat</englishPhrase>
+<romanized>ro</romanized>
+<unicode>肉</unicode>
+<phrase>&amp;# 32905; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 362 < /phraseID> < catID > 11 < /catID > < phraseOrder > 18 < /phraseOrder> < englishPhrase > Milk < /englishPhrase > < romanized > neeyonay < /romanized> < unicode > 牛奶 < /unicode > < phrase > & amp;
+#29275;&amp;# 22902; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 363 < /phraseID> < catID > 11 < /catID > < phraseOrder > 19 < /phraseOrder> < englishPhrase > Oil < /englishPhrase > < romanized > yo < /romanized> < unicode > 油 < /unicode > < phrase > & amp;
+#27833;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>364</phraseID>
+<catID>11</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Potatoes</englishPhrase>
+<romanized>toodo</romanized>
+<unicode>土豆</unicode>
+<phrase>&amp;# 22303; & amp;
+#35910;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>365</phraseID>
+<catID>11</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Rice</englishPhrase>
+<romanized>damee</romanized>
+<unicode>大米</unicode>
+<phrase>&amp;# 22823; & amp;
+#31859;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>366</phraseID>
+<catID>11</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Salt</englishPhrase>
+<romanized>yen</romanized>
+<unicode>盐</unicode>
+<phrase>&amp;# 30416; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 367 < /phraseID> < catID > 11 < /catID > < phraseOrder > 23 < /phraseOrder> < englishPhrase > Soup < /englishPhrase > < romanized > taang < /romanized> < unicode > 汤 < /unicode > < phrase > & amp;
+#27748;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>368</phraseID>
+<catID>11</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Sugar</englishPhrase>
+<romanized>taang</romanized>
+<unicode>糖</unicode>
+<phrase>&amp;# 31958; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 369 < /phraseID> < catID > 11 < /catID > < phraseOrder > 25 < /phraseOrder> < englishPhrase > Tea < /englishPhrase > < romanized > cha < /romanized> < unicode > 茶 < /unicode > < phrase > & amp;
+#33590;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>370</phraseID>
+<catID>11</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Vegetables</englishPhrase>
+<romanized>shotsay</romanized>
+<unicode>蔬菜</unicode>
+<phrase>&amp;# 34092; & amp;
+#33756;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>371</phraseID>
+<catID>11</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Water</englishPhrase>
+<romanized>sho ey</romanized>
+<unicode>水</unicode>
+<phrase>&amp;# 27700; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 372 < /phraseID> < catID > 11 < /catID > < phraseOrder > 28 < /phraseOrder> < englishPhrase > Wine < /englishPhrase > < romanized > potawjeeyo < /romanized> < unicode > 葡萄酒 < /unicode > < phrase > & amp;
+#33889;&amp;# 33796; & amp;
+#37202;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>373</phraseID>
+<catID>11</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Drink.</englishPhrase>
+<romanized>yinleeyaw</romanized>
+<unicode>饮料</unicode>
+<phrase>&amp;# 39278; & amp;
+#26009;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>374</phraseID>
+<catID>11</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Eat</englishPhrase>
+<romanized>chi</romanized>
+<unicode>吃</unicode>
+<phrase>&amp;# 21507; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 375 < /phraseID> < catID > 11 < /catID > < phraseOrder > 31 < /phraseOrder> < englishPhrase > Don & apos;
+t push!We have plenty of food. < /englishPhrase> < romanized > beeyejee!Women yo hen dwo shiwo < /romanized > < unicode > 别挤！ 我们有很多食物。 < /unicode> < phrase > & amp;
+#21035;&amp;# 25380; & amp;
+#65281;&amp;# 25105; & amp;
+#20204;&amp;# 26377; & amp;
+#24456;&amp;# 22810; & amp;
+#39135;&amp;# 29289; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>376</phraseID>
+<catID>11</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Give me your bowl.</englishPhrase>
+<romanized>ba nee de wan gey wo.</romanized>
+<unicode>把你的碗给我。</unicode>
+<phrase>&amp;# 25226; & amp;
+#20320;&amp;# 30340; & amp;
+#30871;&amp;# 32473; & amp;
+#25105;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 377 < /phraseID> < catID > 11 < /catID > < phraseOrder > 33 < /phraseOrder> < englishPhrase > Is the water safe to drink ? < /englishPhrase > < romanized > Je shway he Chilay anCho - an ma ? < /romanized> < unicode > 这水喝起来安全吗？ < /unicode > < phrase > & amp;
+#36825;&amp;# 27700; & amp;
+#21917;&amp;# 36215; & amp;
+#26469;&amp;# 23433; & amp;
+#20840;&amp;# 21527; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>378</phraseID>
+<catID>11</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>Boil the water.</englishPhrase>
+<romanized>shawshway</romanized>
+<unicode>烧水</unicode>
+<phrase>&amp;# 28903; & amp;
+#27700;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>379</phraseID>
+<catID>11</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Wash your hands.</englishPhrase>
+<romanized>Shee nee de sho</romanized>
+<unicode>洗你的手。</unicode>
+<phrase>&amp;# 27927; & amp;
+#20320;&amp;# 30340; & amp;
+#25163;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 380 < /phraseID> < catID > 11 < /catID > < phraseOrder > 36 < /phraseOrder> < englishPhrase > Wash yourself here. < /englishPhrase > < romanized > Sheey Sheeya nee dzijee < /romanized> < unicode > 洗一下你自己。 < /unicode > < phrase > & amp;
+#27927;&amp;# 19968; & amp;
+#19979;&amp;# 20320; & amp;
+#33258;&amp;# 24049; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>381</phraseID>
+<catID>11</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>We need ___ liters of potable water.</englishPhrase>
+<romanized>women Shooyaw ___ sheng beeyanSheeshi shoy</romanized>
+<unicode>我们需要 ___ 升便携式水。</unicode>
+<phrase>&amp;# 25105; & amp;
+#20204;&amp;# 38656; & amp;
+#35201; ___ &amp;# 21319; & amp;
+#20415;&amp;# 25658; & amp;
+#24335;&amp;# 27700; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>382</phraseID>
+<catID>11</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>Where is the latrine?</englishPhrase>
+<romanized>tseswo dzay naar?</romanized>
+<unicode>厕所在哪儿？</unicode>
+<phrase>&amp;# 21397; & amp;
+#25152;&amp;# 22312; & amp;
+#21738;&amp;# 20799; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>383</phraseID>
+<catID>11</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>The latrine is to the ___.</englishPhrase>
+<romanized>tseswo dzay ___</romanized>
+<unicode>厕所在 ___。</unicode>
+<phrase>&amp;# 21397; & amp;
+#25152;&amp;# 22312;
+___ & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>384</phraseID>
+<catID>11</catID>
+<phraseOrder>40</phraseOrder>
+<englishPhrase>The latrine is to the left.</englishPhrase>
+<romanized>tseswo dzay dzwobeeyan</romanized>
+<unicode>厕所在左边。</unicode>
+<phrase>&amp;# 21397; & amp;
+#25152;&amp;# 22312; & amp;
+#24038;&amp;# 36793; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>385</phraseID>
+<catID>11</catID>
+<phraseOrder>41</phraseOrder>
+<englishPhrase>The latrine is to the right.</englishPhrase>
+<romanized>tseswo dzay yobeeyan</romanized>
+<unicode>厕所在右边。</unicode>
+<phrase>&amp;# 21397; & amp;
+#25152;&amp;# 22312; & amp;
+#21491;&amp;# 36793; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>386</phraseID>
+<catID>11</catID>
+<phraseOrder>42</phraseOrder>
+<englishPhrase>The latrine is straight ahead.</englishPhrase>
+<romanized>tseswo jeeyo dzay Cheeyanbeeyan</romanized>
+<unicode>厕所就在前边。</unicode>
+<phrase>&amp;# 21397; & amp;
+#25152;&amp;# 23601; & amp;
+#22312;&amp;# 21069; & amp;
+#36793;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 387 < /phraseID> < catID > 11 < /catID > < phraseOrder > 43 < /phraseOrder> < englishPhrase > Is the food fresh ? < /englishPhrase > < romanized > shiwo SheenSheeyan ma ? < /romanized> < unicode > 食物新鲜吗？ < /unicode > < phrase > & amp;
+#39135;&amp;# 29289; & amp;
+#26032;&amp;# 40092; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 388 < /phraseID> < catID > 11 < /catID > < phraseOrder > 44 < /phraseOrder> < englishPhrase > Is the food spoiled ? < /englishPhrase > < romanized > shiwo hoy le ma ? < /romanized> < unicode > 食物坏了吗？ < /unicode > < phrase > & amp;
+#39135;&amp;# 29289; & amp;
+#22351;&amp;# 20102; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 389 < /phraseID> < catID > 11 < /catID > < phraseOrder > 45 < /phraseOrder> < englishPhrase > Burn this ___. < /englishPhrase > < romanized > ba Shomma Shoma ___ shaw le < /romanized> < unicode > 把 ___ 烧了。 < /unicode > < phrase > & amp;
+#25226; ___ &amp;# 28903; & amp;
+#20102;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 392 < /phraseID> < catID > 12 < /catID > < phraseOrder > 1 < /phraseOrder> < englishPhrase > Gasoline < /englishPhrase > < romanized > Cheeyo < /romanized> < unicode > 汽油 < /unicode > < phrase > & amp;
+#27773;&amp;# 27833; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 393 < /phraseID> < catID > 12 < /catID > < phraseOrder > 2 < /phraseOrder> < englishPhrase > Oil < /englishPhrase > < romanized > sheeyo < /romanized> < unicode > 石油 < /unicode > < phrase > & amp;
+#30707;&amp;# 27833; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 394 < /phraseID> < catID > 12 < /catID > < phraseOrder > 3 < /phraseOrder> < englishPhrase > Diesel < /englishPhrase > < romanized > tsay ow < /romanized> < unicode > 柴油 < /unicode > < phrase > & amp;
+#26612;&amp;# 27833; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 395 < /phraseID> < catID > 12 < /catID > < phraseOrder > 4 < /phraseOrder> < englishPhrase > Gas(propane) < /englishPhrase > < romanized > teeyanranChee(beengwan) < /romanized> < unicode > 天然气（ 丙烷） < /unicode > < phrase > & amp;
+#22825;&amp;# 28982; & amp;
+#27668;&amp;# 65288; & amp;
+#19993;&amp;# 28919; & amp;
+#65289;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>396</phraseID>
+<catID>12</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Liters</englishPhrase>
+<romanized>sheng</romanized>
+<unicode>升</unicode>
+<phrase>&amp;# 21319; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 397 < /phraseID> < catID > 12 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Do you have ___ ? < /englishPhrase > < romanized > nee yo ___ ma ? < /romanized> < unicode > 你有 ___ 吗？ < /unicode > < phrase > & amp;
+#20320;&amp;# 26377;
+___ & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 398 < /phraseID> < catID > 12 < /catID > < phraseOrder > 7 < /phraseOrder> < englishPhrase > Hydraulic fluid < /englishPhrase > < romanized > yeya yetee < /romanized> < unicode > 液压液体 < /unicode > < phrase > & amp;
+#28082;&amp;# 21387; & amp;
+#28082;&amp;# 20307; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 399 < /phraseID> < catID > 12 < /catID > < phraseOrder > 8 < /phraseOrder> < englishPhrase > Hydraulic system < /englishPhrase > < romanized > yeya Sheetong < /romanized> < unicode > 液压系统 < /unicode > < phrase > & amp;
+#28082;&amp;# 21387; & amp;
+#31995;&amp;# 32479; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 400 < /phraseID> < catID > 12 < /catID > < phraseOrder > 9 < /phraseOrder> < englishPhrase > We need maintenance support. < /englishPhrase > < romanized > women Shooyaw weySheeyo bawyang. < /romanized> < unicode > 我们需要维修保养。 < /unicode > < phrase > & amp;
+#25105;&amp;# 20204; & amp;
+#38656;&amp;# 35201; & amp;
+#32500;&amp;# 20462; & amp;
+#20445;&amp;# 20859; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>401</phraseID>
+<catID>12</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>We need ___.</englishPhrase>
+<romanized>women Shooyaw ___</romanized>
+<unicode>我们需要 ___。</unicode>
+<phrase>&amp;# 25105; & amp;
+#20204;&amp;# 38656; & amp;
+#35201; ___&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 402 < /phraseID> < catID > 12 < /catID > < phraseOrder > 11 < /phraseOrder> < englishPhrase > 400 - cycle < /englishPhrase > < romanized > 400 sei by Joo - an < /romanized> < unicode > 400 转 < /unicode > < phrase > 400 & amp;
+#36716;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>403</phraseID>
+<catID>12</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>3-phase</englishPhrase>
+<romanized>3 sang Sheeyang</romanized>
+<unicode>3 相</unicode>
+<phrase>3 &amp;# 30456; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 404 < /phraseID> < catID > 12 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > Alternating current < /englishPhrase > < romanized > jeeyawleeyodeeyan < /romanized> < unicode > 交流电 < /unicode > < phrase > & amp;
+#20132;&amp;# 27969; & amp;
+#30005;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>405</phraseID>
+<catID>12</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>115-volt</englishPhrase>
+<romanized>115 eey ba ee sho foo</romanized>
+<unicode>115 伏</unicode>
+<phrase>115 &amp;# 20239; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 409 < /phraseID> < catID > 13 < /catID > < phraseOrder > 1 < /phraseOrder> < englishPhrase > Antibiotics < /englishPhrase > < romanized > kangshengso < /romanized> < unicode > 抗生素 < /unicode > < phrase > & amp;
+#25239;&amp;# 29983; & amp;
+#32032;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>410</phraseID>
+<catID>13</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Bandage</englishPhrase>
+<romanized>bengdey</romanized>
+<unicode>绷带</unicode>
+<phrase>&amp;# 32503; & amp;
+#24102;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>411</phraseID>
+<catID>13</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Blood</englishPhrase>
+<romanized>Shoye</romanized>
+<unicode>血</unicode>
+<phrase>&amp;# 34880; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 412 < /phraseID> < catID > 13 < /catID > < phraseOrder > 4 < /phraseOrder> < englishPhrase > Burn < /englishPhrase > < romanized > shawShang < /romanized> < unicode > 烧伤 < /unicode > < phrase > & amp;
+#28903;&amp;# 20260; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 413 < /phraseID> < catID > 13 < /catID > < phraseOrder > 5 < /phraseOrder> < englishPhrase > Clean < /englishPhrase > < romanized > Cheenglee < /romanized> < unicode > 清理 < /unicode > < phrase > & amp;
+#28165;&amp;# 29702; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 414 < /phraseID> < catID > 13 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Dead < /englishPhrase > < romanized > si de < /romanized> < unicode > 死的 < /unicode > < phrase > & amp;
+#27515;&amp;# 30340; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 415 < /phraseID> < catID > 13 < /catID > < phraseOrder > 7 < /phraseOrder> < englishPhrase > Doctor < /englishPhrase > < romanized > yeeshen < /romanized> < unicode > 医生 < /unicode > < phrase > & amp;
+#21307;&amp;# 29983; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 416 < /phraseID> < catID > 13 < /catID > < phraseOrder > 8 < /phraseOrder> < englishPhrase > Fever < /englishPhrase > < romanized > fashaw < /romanized> < unicode > 发烧 < /unicode > < phrase > & amp;
+#21457;&amp;# 28903; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 417 < /phraseID> < catID > 13 < /catID > < phraseOrder > 9 < /phraseOrder> < englishPhrase > Hospital < /englishPhrase > < romanized > eeyo an < /romanized> < unicode > 医院 < /unicode > < phrase > & amp;
+#21307;&amp;# 38498; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 418 < /phraseID> < catID > 13 < /catID > < phraseOrder > 10 < /phraseOrder> < englishPhrase > Infection < /englishPhrase > < romanized > ganran < /romanized> < unicode > 感染 < /unicode > < phrase > & amp;
+#24863;&amp;# 26579; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 419 < /phraseID> < catID > 13 < /catID > < phraseOrder > 11 < /phraseOrder> < englishPhrase > Injured < /englishPhrase > < romanized > shoshang < /romanized> < unicode > 受伤 < /unicode > < phrase > & amp;
+#21463;&amp;# 20260; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 420 < /phraseID> < catID > 13 < /catID > < phraseOrder > 12 < /phraseOrder> < englishPhrase > Malnutrition < /englishPhrase > < romanized > eeyngyang boleeyang < /romanized> < unicode > 营养不良 < /unicode > < phrase > & amp;
+#33829;&amp;# 20859; & amp;
+#19981;&amp;# 33391; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 421 < /phraseID> < catID > 13 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > Medic < /englishPhrase > < romanized > eeysheng < /romanized> < unicode > 医生 < /unicode > < phrase > & amp;
+#21307;&amp;# 29983; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 422 < /phraseID> < catID > 13 < /catID > < phraseOrder > 14 < /phraseOrder> < englishPhrase > Medicine < /englishPhrase > < romanized > yaw < /romanized> < unicode > 药 < /unicode > < phrase > & amp;
+#33647;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>423</phraseID>
+<catID>13</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Nurse</englishPhrase>
+<romanized>hoshi</romanized>
+<unicode>护士</unicode>
+<phrase>&amp;# 25252; & amp;
+#22763;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>424</phraseID>
+<catID>13</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Poison</englishPhrase>
+<romanized>do</romanized>
+<unicode>毒</unicode>
+<phrase>&amp;# 27602; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 425 < /phraseID> < catID > 13 < /catID > < phraseOrder > 17 < /phraseOrder> < englishPhrase > Sick < /englishPhrase > < romanized > shengbeeng < /romanized> < unicode > 生病 < /unicode > < phrase > & amp;
+#29983;&amp;# 30149; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 426 < /phraseID> < catID > 13 < /catID > < phraseOrder > 18 < /phraseOrder> < englishPhrase > Vitamins < /englishPhrase > < romanized > weytaameeng < /romanized> < unicode > 维他命 < /unicode > < phrase > & amp;
+#32500;&amp;# 20182; & amp;
+#21629;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>427</phraseID>
+<catID>13</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Wound</englishPhrase>
+<romanized>shangko</romanized>
+<unicode>伤口</unicode>
+<phrase>&amp;# 20260; & amp;
+#21475;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>428</phraseID>
+<catID>13</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>I am a doctor.</englishPhrase>
+<romanized>wo shi ge eeysheng</romanized>
+<unicode>我是个医生。</unicode>
+<phrase>&amp;# 25105; & amp;
+#26159;&amp;# 20010; & amp;
+#21307;&amp;# 29983; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>429</phraseID>
+<catID>13</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>I am not a doctor.</englishPhrase>
+<romanized>wo bo shee eeysheng</romanized>
+<unicode>我不是医生。</unicode>
+<phrase>&amp;# 25105; & amp;
+#19981;&amp;# 26159; & amp;
+#21307;&amp;# 29983; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>430</phraseID>
+<catID>13</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>I am going to help.</englishPhrase>
+<romanized>wo hoy bangmang</romanized>
+<unicode>我会帮忙。</unicode>
+<phrase>&amp;# 25105; & amp;
+#20250;&amp;# 24110; & amp;
+#24537;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 431 < /phraseID> < catID > 13 < /catID > < phraseOrder > 23 < /phraseOrder> < englishPhrase > Can you walk ? < /englishPhrase > < romanized > nee neng dzoloo ma ? < /romanized> < unicode > 你能走路吗？ < /unicode > < phrase > & amp;
+#20320;&amp;# 33021; & amp;
+#36208;&amp;# 36335; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 432 < /phraseID> < catID > 13 < /catID > < phraseOrder > 24 < /phraseOrder> < englishPhrase > Can you sit ? < /englishPhrase > < romanized > nee neng dzo Je ma ? < /romanized> < unicode > 你能坐着吗？ < /unicode > < phrase > & amp;
+#20320;&amp;# 33021; & amp;
+#22352;&amp;# 30528; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 433 < /phraseID> < catID > 13 < /catID > < phraseOrder > 25 < /phraseOrder> < englishPhrase > Can you stand ? < /englishPhrase > < romanized > nee neng JanJe ma ? < /romanized> < unicode > 你能站着吗？ < /unicode > < phrase > & amp;
+#20320;&amp;# 33021; & amp;
+#31449;&amp;# 30528; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 434 < /phraseID> < catID > 13 < /catID > < phraseOrder > 26 < /phraseOrder> < englishPhrase > Are you in pain ? < /englishPhrase > < romanized > nee teng ma ? < /romanized> < unicode > 你疼吗？ < /unicode > < phrase > & amp;
+#20320;&amp;# 30140; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 435 < /phraseID> < catID > 13 < /catID > < phraseOrder > 27 < /phraseOrder> < englishPhrase > You will get a shot.(injection) < /englishPhrase > < romanized > hoy gei nee daaJen < /romanized> < unicode > 会给你打针。 < /unicode > < phrase > & amp;
+#20250;&amp;# 32473; & amp;
+#20320;&amp;# 25171; & amp;
+#38024;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 436 < /phraseID> < catID > 13 < /catID > < phraseOrder > 28 < /phraseOrder> < englishPhrase > I will take you to the hospital. < /englishPhrase > < romanized > wo hoy dey nee Choy yeeyo an < /romanized> < unicode > 我会带你去医院。 < /unicode > < phrase > & amp;
+#25105;&amp;# 20250; & amp;
+#24102;&amp;# 20320; & amp;
+#21435;&amp;# 21307; & amp;
+#38498;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 437 < /phraseID> < catID > 13 < /catID > < phraseOrder > 29 < /phraseOrder> < englishPhrase > What is wrong ? < /englishPhrase > < romanized > dzenme hoy shi ? < /romanized> < unicode > 怎么回事？ < /unicode > < phrase > & amp;
+#24590;&amp;# 20040; & amp;
+#22238;&amp;# 20107; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>438</phraseID>
+<catID>13</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Are you injured?</englishPhrase>
+<romanized>nee shoshang le ma?</romanized>
+<unicode>你受伤了吗？</unicode>
+<phrase>&amp;# 20320; & amp;
+#21463;&amp;# 20260; & amp;
+#20102;&amp;# 21527; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>439</phraseID>
+<catID>13</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Can you feed yourself?</englishPhrase>
+<romanized>nee dzijee neng chi ma?</romanized>
+<unicode>你自己能吃吗？</unicode>
+<phrase>&amp;# 20320; & amp;
+#33258;&amp;# 24049; & amp;
+#33021;&amp;# 21507; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 440 < /phraseID> < catID > 13 < /catID > < phraseOrder > 32 < /phraseOrder> < englishPhrase > Open your mouth. < /englishPhrase > < romanized > Jangkaay dzo ey < /romanized> < unicode > 张开嘴。 < /unicode > < phrase > & amp;
+#24352;&amp;# 24320; & amp;
+#22068;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 441 < /phraseID> < catID > 13 < /catID > < phraseOrder > 33 < /phraseOrder> < englishPhrase > Are you pregnant ? < /englishPhrase > < romanized > nee hoyayon le ma ? < /romanized> < unicode > 你怀孕了吗？ < /unicode > < phrase > & amp;
+#20320;&amp;# 24576; & amp;
+#23381;&amp;# 20102; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 444 < /phraseID> < catID > 14 < /catID > < phraseOrder > 1 < /phraseOrder> < englishPhrase > Abdomen < /englishPhrase > < romanized > dodzi < /romanized> < unicode > 肚子 < /unicode > < phrase > & amp;
+#32922;&amp;# 23376; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 445 < /phraseID> < catID > 14 < /catID > < phraseOrder > 2 < /phraseOrder> < englishPhrase > Ankle < /englishPhrase > < romanized > ho - y goan jeeye < /romanized> < unicode > 踝关节 < /unicode > < phrase > & amp;
+#36381;&amp;# 20851; & amp;
+#33410;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>446</phraseID>
+<catID>14</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Arm</englishPhrase>
+<romanized>gebo</romanized>
+<unicode>胳膊</unicode>
+<phrase>&amp;# 33011; & amp;
+#33162;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>447</phraseID>
+<catID>14</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Bone</englishPhrase>
+<romanized>gotaw</romanized>
+<unicode>骨头</unicode>
+<phrase>&amp;# 39592; & amp;
+#22836;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>448</phraseID>
+<catID>14</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Brain</englishPhrase>
+<romanized>naw</romanized>
+<unicode>脑</unicode>
+<phrase>&amp;# 33041; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 449 < /phraseID> < catID > 14 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Chest < /englishPhrase > < romanized > Shyong < /romanized> < unicode > 胸 < /unicode > < phrase > & amp;
+#33016;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>450</phraseID>
+<catID>14</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Ear</englishPhrase>
+<romanized>ardwo</romanized>
+<unicode>耳朵</unicode>
+<phrase>&amp;# 32819; & amp;
+#26421;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>451</phraseID>
+<catID>14</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Elbow</englishPhrase>
+<romanized>Jo</romanized>
+<unicode>肘</unicode>
+<phrase>&amp;# 32920; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 452 < /phraseID> < catID > 14 < /catID > < phraseOrder > 9 < /phraseOrder> < englishPhrase > Eyes < /englishPhrase > < romanized > yanjeeng < /romanized> < unicode > 眼睛 < /unicode > < phrase > & amp;
+#30524;&amp;# 30555; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 453 < /phraseID> < catID > 14 < /catID > < phraseOrder > 10 < /phraseOrder> < englishPhrase > Face < /englishPhrase > < romanized > leeyan < /romanized> < unicode > 脸 < /unicode > < phrase > & amp;
+#33080;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>454</phraseID>
+<catID>14</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Finger</englishPhrase>
+<romanized>shoJi</romanized>
+<unicode>手指</unicode>
+<phrase>&amp;# 25163; & amp;
+#25351;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>455</phraseID>
+<catID>14</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Foot</englishPhrase>
+<romanized>jeeyaw</romanized>
+<unicode>脚</unicode>
+<phrase>&amp;# 33050; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 456 < /phraseID> < catID > 14 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > Hair < /englishPhrase > < romanized > tofa < /romanized> < unicode > 头发 < /unicode > < phrase > & amp;
+#22836;&amp;# 21457; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 457 < /phraseID> < catID > 14 < /catID > < phraseOrder > 14 < /phraseOrder> < englishPhrase > Hand < /englishPhrase > < romanized > sho < /romanized> < unicode > 手 < /unicode > < phrase > & amp;
+#25163;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>458</phraseID>
+<catID>14</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Head</englishPhrase>
+<romanized>to</romanized>
+<unicode>头</unicode>
+<phrase>&amp;# 22836; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 459 < /phraseID> < catID > 14 < /catID > < phraseOrder > 16 < /phraseOrder> < englishPhrase > Heart < /englishPhrase > < romanized > SheenJang < /romanized> < unicode > 心脏 < /unicode > < phrase > & amp;
+#24515;&amp;# 33039; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 460 < /phraseID> < catID > 14 < /catID > < phraseOrder > 17 < /phraseOrder> < englishPhrase > Kidney < /englishPhrase > < romanized > shen < /romanized> < unicode > 肾 < /unicode > < phrase > & amp;
+#32958;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>461</phraseID>
+<catID>14</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Knee</englishPhrase>
+<romanized>Sheegay</romanized>
+<unicode>膝盖</unicode>
+<phrase>&amp;# 33181; & amp;
+#30422;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>462</phraseID>
+<catID>14</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Leg</englishPhrase>
+<romanized>to ey</romanized>
+<unicode>腿</unicode>
+<phrase>&amp;# 33151; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 463 < /phraseID> < catID > 14 < /catID > < phraseOrder > 20 < /phraseOrder> < englishPhrase > Lips < /englishPhrase > < romanized > dzoytsun < /romanized> < unicode > 嘴唇 < /unicode > < phrase > & amp;
+#22068;&amp;# 21767; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 464 < /phraseID> < catID > 14 < /catID > < phraseOrder > 21 < /phraseOrder> < englishPhrase > Liver < /englishPhrase > < romanized > gan < /romanized> < unicode > 肝 < /unicode > < phrase > & amp;
+#32925;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>465</phraseID>
+<catID>14</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Lungs</englishPhrase>
+<romanized>fey</romanized>
+<unicode>肺</unicode>
+<phrase>&amp;# 32954; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 466 < /phraseID> < catID > 14 < /catID > < phraseOrder > 23 < /phraseOrder> < englishPhrase > Mouth < /englishPhrase > < romanized > dzoye < /romanized> < unicode > 嘴 < /unicode > < phrase > & amp;
+#22068;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>467</phraseID>
+<catID>14</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Neck</englishPhrase>
+<romanized>bodzi</romanized>
+<unicode>脖子</unicode>
+<phrase>&amp;# 33046; & amp;
+#23376;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>468</phraseID>
+<catID>14</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Nose</englishPhrase>
+<romanized>beedzi</romanized>
+<unicode>鼻子</unicode>
+<phrase>&amp;# 40763; & amp;
+#23376;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>469</phraseID>
+<catID>14</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Pelvis / Groin</englishPhrase>
+<romanized>goopen</romanized>
+<unicode>骨盆</unicode>
+<phrase>&amp;# 39592; & amp;
+#30406;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>470</phraseID>
+<catID>14</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Ribs</englishPhrase>
+<romanized>leygoo</romanized>
+<unicode>肋骨</unicode>
+<phrase>&amp;# 32907; & amp;
+#39592;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>471</phraseID>
+<catID>14</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Shoulder</englishPhrase>
+<romanized>jeeyanbang</romanized>
+<unicode>肩膀</unicode>
+<phrase>&amp;# 32937; & amp;
+#33152;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>472</phraseID>
+<catID>14</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Skull</englishPhrase>
+<romanized>tologoo</romanized>
+<unicode>头颅骨</unicode>
+<phrase>&amp;# 22836; & amp;
+#39045;&amp;# 39592; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 473 < /phraseID> < catID > 14 < /catID > < phraseOrder > 30 < /phraseOrder> < englishPhrase > Spine < /englishPhrase > < romanized > jeeleeyang < /romanized> < unicode > 脊梁 < /unicode > < phrase > & amp;
+#33034;&amp;# 26753; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 474 < /phraseID> < catID > 14 < /catID > < phraseOrder > 31 < /phraseOrder> < englishPhrase > Stomach(area) < /englishPhrase > < romanized > dodzi < /romanized> < unicode > 肚子 < /unicode > < phrase > & amp;
+#32922;&amp;# 23376; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 475 < /phraseID> < catID > 14 < /catID > < phraseOrder > 32 < /phraseOrder> < englishPhrase > Stomach(organ) < /englishPhrase > < romanized > wey < /romanized> < unicode > 胃 < /unicode > < phrase > & amp;
+#32963;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>476</phraseID>
+<catID>14</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>Teeth</englishPhrase>
+<romanized>yaachi</romanized>
+<unicode>牙齿</unicode>
+<phrase>&amp;# 29273; & amp;
+#40831;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>477</phraseID>
+<catID>14</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>Toe</englishPhrase>
+<romanized>jeeyawJi</romanized>
+<unicode>脚趾</unicode>
+<phrase>&amp;# 33050; & amp;
+#36286;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>478</phraseID>
+<catID>14</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Tongue</englishPhrase>
+<romanized>sheto</romanized>
+<unicode>舌头</unicode>
+<phrase>&amp;# 33292; & amp;
+#22836;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>479</phraseID>
+<catID>14</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>Wrist</englishPhrase>
+<romanized>showan</romanized>
+<unicode>手腕</unicode>
+<phrase>&amp;# 25163; & amp;
+#33109;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>480</phraseID>
+<catID>15</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>General</englishPhrase>
+<romanized>jeeyangjoon</romanized>
+<unicode>将军</unicode>
+<phrase>&amp;# 23558; & amp;
+#20891;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>481</phraseID>
+<catID>15</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Admiral</englishPhrase>
+<romanized>hayjon shangjeeyang</romanized>
+<unicode>海军上将</unicode>
+<phrase>&amp;# 28023; & amp;
+#20891;&amp;# 19978; & amp;
+#23558;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>482</phraseID>
+<catID>15</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Colonel</englishPhrase>
+<romanized>shangSheeyaw</romanized>
+<unicode>上校</unicode>
+<phrase>&amp;# 19978; & amp;
+#26657;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>483</phraseID>
+<catID>15</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Lieutenant Colonel</englishPhrase>
+<romanized>JongSheeyaw</romanized>
+<unicode>中校</unicode>
+<phrase>&amp;# 20013; & amp;
+#26657;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>484</phraseID>
+<catID>15</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Commander</englishPhrase>
+<romanized>Jihoygo an</romanized>
+<unicode>指挥官</unicode>
+<phrase>&amp;# 25351; & amp;
+#25381;&amp;# 23448; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 485 < /phraseID> < catID > 15 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Major < /englishPhrase > < romanized > shawSheeyaw < /romanized> < unicode > 少校 < /unicode > < phrase > & amp;
+#23569;&amp;# 26657; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 486 < /phraseID> < catID > 15 < /catID > < phraseOrder > 7 < /phraseOrder> < englishPhrase > Captain < /englishPhrase > < romanized > shangwey < /romanized> < unicode > 上尉 < /unicode > < phrase > & amp;
+#19978;&amp;# 23561; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 487 < /phraseID> < catID > 15 < /catID > < phraseOrder > 8 < /phraseOrder> < englishPhrase > Lieutenant < /englishPhrase > < romanized > Jongwey < /romanized> < unicode > 中尉 < /unicode > < phrase > & amp;
+#20013;&amp;# 23561; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 488 < /phraseID> < catID > 15 < /catID > < phraseOrder > 9 < /phraseOrder> < englishPhrase > Senior Sergeant < /englishPhrase > < romanized > joonsheeJang < /romanized> < unicode > 军士长 < /unicode > < phrase > & amp;
+#20891;&amp;# 22763; & amp;
+#38271;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>489</phraseID>
+<catID>15</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Soldier</englishPhrase>
+<romanized>Janshi</romanized>
+<unicode>战士</unicode>
+<phrase>&amp;# 25112; & amp;
+#22763;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>490</phraseID>
+<catID>15</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Airman</englishPhrase>
+<romanized>hangkongbeeng</romanized>
+<unicode>航空兵</unicode>
+<phrase>&amp;# 33322; & amp;
+#31354;&amp;# 20853; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 491 < /phraseID> < catID > 15 < /catID > < phraseOrder > 12 < /phraseOrder> < englishPhrase > Seaman < /englishPhrase > < romanized > shoybeeng < /romanized> < unicode > 水兵 < /unicode > < phrase > & amp;
+#27700;&amp;# 20853; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 492 < /phraseID> < catID > 15 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > Marine < /englishPhrase > < romanized > hayjon loJan doy yo an < /romanized> < unicode > 海军陆战队员 < /unicode > < phrase > & amp;
+#28023;&amp;# 20891; & amp;
+#38470;&amp;# 25112; & amp;
+#38431;&amp;# 21592; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 493 < /phraseID> < catID > 16 < /catID > < phraseOrder > 1 < /phraseOrder> < englishPhrase > We must spend the night here. < /englishPhrase > < romanized > women beeSho dzay Jer goye. < /romanized> < unicode > 我们必须在这儿过夜。 < /unicode > < phrase > & amp;
+#25105;&amp;# 20204; & amp;
+#24517;&amp;# 39035; & amp;
+#22312;&amp;# 36825; & amp;
+#20799;&amp;# 36807; & amp;
+#22812;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 494 < /phraseID> < catID > 16 < /catID > < phraseOrder > 2 < /phraseOrder> < englishPhrase > Is there a dining facility here ? < /englishPhrase > < romanized > Jer yo cheefan de deefang ma ? < /romanized> < unicode > 这儿有吃饭的地方吗？ < /unicode > < phrase > & amp;
+#36825;&amp;# 20799; & amp;
+#26377;&amp;# 21507; & amp;
+#39277;&amp;# 30340; & amp;
+#22320;&amp;# 26041; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 495 < /phraseID> < catID > 16 < /catID > < phraseOrder > 3 < /phraseOrder> < englishPhrase > How many kilometers to the nearest town ? < /englishPhrase > < romanized > daw dzoyeejeen de SheeyawJen yo doshaw gonglee ? < /romanized> < unicode > 到最近的小镇有多少公里？ < /unicode > < phrase > & amp;
+#21040;&amp;# 26368; & amp;
+#36817;&amp;# 30340; & amp;
+#23567;&amp;# 38215; & amp;
+#26377;&amp;# 22810; & amp;
+#23569;&amp;# 20844; & amp;
+#37324;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 496 < /phraseID> < catID > 16 < /catID > < phraseOrder > 4 < /phraseOrder> < englishPhrase > Are there any hotels near here ? < /englishPhrase > < romanized > foojeen yo loodeeyan ma ? < /romanized> < unicode > 附近有旅店吗？ < /unicode > < phrase > & amp;
+#38468;&amp;# 36817; & amp;
+#26377;&amp;# 26053; & amp;
+#24215;&amp;# 21527; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>497</phraseID>
+<catID>16</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Are there any restaurants near here?</englishPhrase>
+<romanized>foojeen yo fandeeyan ma?</romanized>
+<unicode>附近有饭店吗？</unicode>
+<phrase>&amp;# 38468; & amp;
+#36817;&amp;# 26377; & amp;
+#39277;&amp;# 24215; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 498 < /phraseID> < catID > 16 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > We want to go to ___. < /englishPhrase > < romanized > women yaw daw ___ < /romanized> < unicode > 我们要到 ___。 < /unicode > < phrase > & amp;
+#25105;&amp;# 20204; & amp;
+#35201;&amp;# 21040;
+___ & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>499</phraseID>
+<catID>16</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Are there rental cars available?</englishPhrase>
+<romanized>yo che chodzoo ma?</romanized>
+<unicode>有车出租吗？</unicode>
+<phrase>&amp;# 26377; & amp;
+#36710;&amp;# 20986; & amp;
+#31199;&amp;# 21527; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>500</phraseID>
+<catID>16</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Is there a telephone available?</englishPhrase>
+<romanized>yo deeyanhowa ma?</romanized>
+<unicode>有电话吗？</unicode>
+<phrase>&amp;# 26377; & amp;
+#30005;&amp;# 35805; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 501 < /phraseID> < catID > 16 < /catID > < phraseOrder > 9 < /phraseOrder> < englishPhrase > We need ___ gallons of potable water. < /englishPhrase > < romanized > women Shooyaw ___ jeeyalo in beeyanSheeyeshi shway < /romanized> < unicode > 我们需要 ___ 加仑便携式水。 < /unicode > < phrase > & amp;
+#25105;&amp;# 20204; & amp;
+#38656;&amp;# 35201;
+___ & amp;
+#21152;&amp;# 20177; & amp;
+#20415;&amp;# 25658; & amp;
+#24335;&amp;# 27700; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>502</phraseID>
+<catID>17</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Air Force</englishPhrase>
+<romanized>kongjoo in</romanized>
+<unicode>空军</unicode>
+<phrase>&amp;# 31354; & amp;
+#20891;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>503</phraseID>
+<catID>17</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Army</englishPhrase>
+<romanized>loojoo in</romanized>
+<unicode>陆军</unicode>
+<phrase>&amp;# 38470; & amp;
+#20891;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>504</phraseID>
+<catID>17</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Marines</englishPhrase>
+<romanized>hayjoonn looJandoy</romanized>
+<unicode>海军陆战队</unicode>
+<phrase>&amp;# 28023; & amp;
+#20891;&amp;# 38470; & amp;
+#25112;&amp;# 38431; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 505 < /phraseID> < catID > 17 < /catID > < phraseOrder > 4 < /phraseOrder> < englishPhrase > Navy < /englishPhrase > < romanized > hayjoon < /romanized> < unicode > 海军 < /unicode > < phrase > & amp;
+#28023;&amp;# 20891; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 506 < /phraseID> < catID > 17 < /catID > < phraseOrder > 5 < /phraseOrder> < englishPhrase > Air Defense < /englishPhrase > < romanized > fangkong < /romanized> < unicode > 防空 < /unicode > < phrase > & amp;
+#38450;&amp;# 31354; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 507 < /phraseID> < catID > 17 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Commander < /englishPhrase > < romanized > Jihoygo an < /romanized> < unicode > 指挥官 < /unicode > < phrase > & amp;
+#25351;&amp;# 25381; & amp;
+#23448;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>508</phraseID>
+<catID>17</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Dentist</englishPhrase>
+<romanized>yaayee</romanized>
+<unicode>牙医</unicode>
+<phrase>&amp;# 29273; & amp;
+#21307;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>509</phraseID>
+<catID>17</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Doctor</englishPhrase>
+<romanized>eeysheng</romanized>
+<unicode>医生</unicode>
+<phrase>&amp;# 21307; & amp;
+#29983;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>510</phraseID>
+<catID>17</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Driver</englishPhrase>
+<romanized>sejee</romanized>
+<unicode>司机</unicode>
+<phrase>&amp;# 21496; & amp;
+#26426;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>511</phraseID>
+<catID>17</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Farmer</englishPhrase>
+<romanized>nongmeeng</romanized>
+<unicode>农民</unicode>
+<phrase>&amp;# 20892; & amp;
+#27665;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>512</phraseID>
+<catID>17</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Fisherman</englishPhrase>
+<romanized>yoomeen</romanized>
+<unicode>渔民</unicode>
+<phrase>&amp;# 28180; & amp;
+#27665;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>513</phraseID>
+<catID>17</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Government employee</englishPhrase>
+<romanized>Jengfoo gooyo an</romanized>
+<unicode>政府雇员</unicode>
+<phrase>&amp;# 25919; & amp;
+#24220;&amp;# 38599; & amp;
+#21592;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>514</phraseID>
+<catID>17</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Guard</englishPhrase>
+<romanized>weybeeng</romanized>
+<unicode>卫兵</unicode>
+<phrase>&amp;# 21355; & amp;
+#20853;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>515</phraseID>
+<catID>17</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Housewife</englishPhrase>
+<romanized>jeeyateeng Joofoo</romanized>
+<unicode>家庭主妇</unicode>
+<phrase>&amp;# 23478; & amp;
+#24237;&amp;# 20027; & amp;
+#22919;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>516</phraseID>
+<catID>17</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Laborer</englishPhrase>
+<romanized>lawgong</romanized>
+<unicode>劳工</unicode>
+<phrase>&amp;# 21171; & amp;
+#24037;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>517</phraseID>
+<catID>17</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Mechanic</englishPhrase>
+<romanized>jeeSheeyshi</romanized>
+<unicode>机械师</unicode>
+<phrase>&amp;# 26426; & amp;
+#26800;&amp;# 24072; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 518 < /phraseID> < catID > 17 < /catID > < phraseOrder > 17 < /phraseOrder> < englishPhrase > Messenger < /englishPhrase > < romanized > Sheenshi < /romanized> < unicode > 信使 < /unicode > < phrase > & amp;
+#20449;&amp;# 20351; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 519 < /phraseID> < catID > 17 < /catID > < phraseOrder > 18 < /phraseOrder> < englishPhrase > Pilot < /englishPhrase > < romanized > feySheengyo an < /romanized> < unicode > 飞行员 < /unicode > < phrase > & amp;
+#39134;&amp;# 34892; & amp;
+#21592;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>520</phraseID>
+<catID>17</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Policeman</englishPhrase>
+<romanized>jeengcha</romanized>
+<unicode>警察</unicode>
+<phrase>&amp;# 35686; & amp;
+#23519;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>521</phraseID>
+<catID>17</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Sailor</englishPhrase>
+<romanized>shooyesho</romanized>
+<unicode>水手</unicode>
+<phrase>&amp;# 27700; & amp;
+#25163;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>522</phraseID>
+<catID>17</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Businessman</englishPhrase>
+<romanized>shangren</romanized>
+<unicode>商人</unicode>
+<phrase>&amp;# 21830; & amp;
+#20154;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>523</phraseID>
+<catID>17</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Shopkeeper</englishPhrase>
+<romanized>deeyanJoo</romanized>
+<unicode>店主</unicode>
+<phrase>&amp;# 24215; & amp;
+#20027;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>524</phraseID>
+<catID>17</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Soldier</englishPhrase>
+<romanized>Janshi</romanized>
+<unicode>战士</unicode>
+<phrase>&amp;# 25112; & amp;
+#22763;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>525</phraseID>
+<catID>17</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Student</englishPhrase>
+<romanized>Shooyesheng</romanized>
+<unicode>学生</unicode>
+<phrase>&amp;# 23398; & amp;
+#29983;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>526</phraseID>
+<catID>17</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Teacher</englishPhrase>
+<romanized>lawshi</romanized>
+<unicode>老师</unicode>
+<phrase>&amp;# 32769; & amp;
+#24072;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>527</phraseID>
+<catID>18</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Jongwen</englishPhrase>
+<romanized>Jongwen</romanized>
+<unicode>中文</unicode>
+<phrase>&amp;# 20013; & amp;
+#25991;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>528</phraseID>
+<catID>18</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Where is my customs declaration?</englishPhrase>
+<romanized>wo de ha-etguan Shenbawdan dza-ey naar?</romanized>
+<unicode>我的海关申报单在哪儿？</unicode>
+<phrase>&amp;# 25105; & amp;
+#30340;&amp;# 28023; & amp;
+#20851;&amp;# 30003; & amp;
+#25253;&amp;# 21333; & amp;
+#22312;&amp;# 21738; & amp;
+#20799;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 529 < /phraseID> < catID > 18 < /catID > < phraseOrder > 2 < /phraseOrder> < englishPhrase > I do not have anything to declare. < /englishPhrase > < romanized > wo mey Shenme dongShee Shenbaw. < /romanized> < unicode > 我没什么东西申报。 < /unicode > < phrase > & amp;
+#25105;&amp;# 27809; & amp;
+#20160;&amp;# 20040; & amp;
+#19996;&amp;# 35199; & amp;
+#30003;&amp;# 25253; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>530</phraseID>
+<catID>18</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>These goods are personal.</englishPhrase>
+<romanized>JeShee Shi siren woopeen.</romanized>
+<unicode>这些是私人物品。</unicode>
+<phrase>&amp;# 36825; & amp;
+#20123;&amp;# 26159; & amp;
+#31169;&amp;# 20154; & amp;
+#29289;&amp;# 21697; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>531</phraseID>
+<catID>18</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Not for sale.</englishPhrase>
+<romanized>boo mai.</romanized>
+<unicode>不卖。</unicode>
+<phrase>&amp;# 19981; & amp;
+#21334;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 532 < /phraseID> < catID > 18 < /catID > < phraseOrder > 5 < /phraseOrder> < englishPhrase > Can you help me fill out the forms ? < /englishPhrase > < romanized > nee neng bang wo teeyan Je Jang beeyaw ma ? < /romanized> < unicode > 你能帮我填这张表吗？ < /unicode > < phrase > & amp;
+#20320;&amp;# 33021; & amp;
+#24110;&amp;# 25105; & amp;
+#22635;&amp;# 36825; & amp;
+#24352;&amp;# 34920; & amp;
+#21527;&amp;# 65311; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 533 < /phraseID> < catID > 18 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Is this correct ? < /englishPhrase > < romanized > Je doyiboodoyi ? < /romanized> < unicode > 这对不对？ < /unicode > < phrase > & amp;
+#36825;&amp;# 23545; & amp;
+#19981;&amp;# 23545; & amp;
+#65311;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>534</phraseID>
+<catID>18</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Here is my passport.</englishPhrase>
+<romanized>JeShi wo de hoJaw.</romanized>
+<unicode>这是我的护照。</unicode>
+<phrase>&amp;# 36825; & amp;
+#26159;&amp;# 25105; & amp;
+#30340;&amp;# 25252; & amp;
+#29031;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 535 < /phraseID> < catID > 18 < /catID > < phraseOrder > 8 < /phraseOrder> < englishPhrase > Here is my visa. < /englishPhrase > < romanized > JeShi wo de CheeyanJeng. < /romanized> < unicode > 这是我的签证。 < /unicode > < phrase > & amp;
+#36825;&amp;# 26159; & amp;
+#25105;&amp;# 30340; & amp;
+#31614;&amp;# 35777; & amp;
+#12290;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>536</phraseID>
+<catID>18</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>I have no Ren-Min-Bi.</englishPhrase>
+<romanized>wo meiyou Renmeenbee.</romanized>
+<unicode>我没有人民币。</unicode>
+<phrase>&amp;# 25105; & amp;
+#27809;&amp;# 26377; & amp;
+#20154;&amp;# 27665; & amp;
+#24065;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 537 < /phraseID> < catID > 18 < /catID > < phraseOrder > 10 < /phraseOrder> < englishPhrase > Ad valorem < /englishPhrase > < romanized > genjyoo jeeyaaJi < /romanized> < unicode > 根据价值 < /unicode > < phrase > & amp;
+#26681;&amp;# 25454; & amp;
+#20215;&amp;# 20540; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 538 < /phraseID> < catID > 18 < /catID > < phraseOrder > 11 < /phraseOrder> < englishPhrase > Ammunition < /englishPhrase > < romanized > danyaw < /romanized> < unicode > 弹药 < /unicode > < phrase > & amp;
+#24377;&amp;# 33647; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 539 < /phraseID> < catID > 18 < /catID > < phraseOrder > 12 < /phraseOrder> < englishPhrase > Baggage < /englishPhrase > < romanized > dziJong < /romanized> < unicode > 辎重 < /unicode > < phrase > & amp;
+#36750;&amp;# 37325; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 540 < /phraseID> < catID > 18 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > Bill of lading < /englishPhrase > < romanized > ho - woodan < /romanized> < unicode > 货物单 < /unicode > < phrase > & amp;
+#36135;&amp;# 29289; & amp;
+#21333;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>541</phraseID>
+<catID>18</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Cargo</englishPhrase>
+<romanized>ho-woo</romanized>
+<unicode>货物</unicode>
+<phrase>&amp;# 36135; & amp;
+#29289;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>542</phraseID>
+<catID>18</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Customs</englishPhrase>
+<romanized>ha-eyguan</romanized>
+<unicode>海关</unicode>
+<phrase>&amp;# 28023; & amp;
+#20851;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>543</phraseID>
+<catID>18</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Customs declaration</englishPhrase>
+<romanized>ha-eyguan Shenbaw</romanized>
+<unicode>海关申报</unicode>
+<phrase>&amp;# 28023; & amp;
+#20851;&amp;# 30003; & amp;
+#25253;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>544</phraseID>
+<catID>18</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Customs tax</englishPhrase>
+<romanized>go-aanShway</romanized>
+<unicode>关税</unicode>
+<phrase>&amp;# 20851; & amp;
+#31246;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>545</phraseID>
+<catID>18</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Customs worker</englishPhrase>
+<romanized>ha-eyguan gongdzwo Renyuan</romanized>
+<unicode>海关工作人员</unicode>
+<phrase>&amp;# 28023; & amp;
+#20851;&amp;# 24037; & amp;
+#20316;&amp;# 20154; & amp;
+#21592;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>546</phraseID>
+<catID>18</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Damaged</englishPhrase>
+<romanized>sunhuaay de</romanized>
+<unicode>损坏的</unicode>
+<phrase>&amp;# 25439; & amp;
+#22351;&amp;# 30340; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 547 < /phraseID> < catID > 18 < /catID > < phraseOrder > 20 < /phraseOrder> < englishPhrase > Delivery < /englishPhrase > < romanized > songhwo < /romanized> < unicode > 送货 < /unicode > < phrase > & amp;
+#36865;&amp;# 36135; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 548 < /phraseID> < catID > 18 < /catID > < phraseOrder > 21 < /phraseOrder> < englishPhrase > Duty < /englishPhrase > < romanized > go - aanShway < /romanized> < unicode > 关税 < /unicode > < phrase > & amp;
+#20851;&amp;# 31246; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 549 < /phraseID> < catID > 18 < /catID > < phraseOrder > 22 < /phraseOrder> < englishPhrase > Expenditures < /englishPhrase > < romanized > ho - aafee < /romanized> < unicode > 花费 < /unicode > < phrase > & amp;
+#33457;&amp;# 36153; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 550 < /phraseID> < catID > 18 < /catID > < phraseOrder > 23 < /phraseOrder> < englishPhrase > Export < /englishPhrase > < romanized > Chooko < /romanized> < unicode > 出口 < /unicode > < phrase > & amp;
+#20986;&amp;# 21475; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 551 < /phraseID> < catID > 18 < /catID > < phraseOrder > 24 < /phraseOrder> < englishPhrase > False < /englishPhrase > < romanized > jeeyaa de < /romanized> < unicode > 假的 < /unicode > < phrase > & amp;
+#20551;&amp;# 30340; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 552 < /phraseID> < catID > 18 < /catID > < phraseOrder > 25 < /phraseOrder> < englishPhrase > Foreign currency < /englishPhrase > < romanized > wayhoy < /romanized> < unicode > 外汇 < /unicode > < phrase > & amp;
+#22806;&amp;# 27719; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 553 < /phraseID> < catID > 18 < /catID > < phraseOrder > 26 < /phraseOrder> < englishPhrase > Form(document) < /englishPhrase > < romanized > beeyaw(wenjeeyin) < /romanized> < unicode > 表（ 文件） < /unicode > < phrase > & amp;
+#34920;&amp;# 65288; & amp;
+#25991;&amp;# 20214; & amp;
+#65289;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>554</phraseID>
+<catID>18</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Holding</englishPhrase>
+<romanized>soyowoo</romanized>
+<unicode>所有物</unicode>
+<phrase>&amp;# 25152; & amp;
+#26377;&amp;# 29289; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 555 < /phraseID> < catID > 18 < /catID > < phraseOrder > 28 < /phraseOrder> < englishPhrase > Import < /englishPhrase > < romanized > jeenko < /romanized> < unicode > 进口 < /unicode > < phrase > & amp;
+#36827;&amp;# 21475; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 556 < /phraseID> < catID > 18 < /catID > < phraseOrder > 29 < /phraseOrder> < englishPhrase > Insurance < /englishPhrase > < romanized > bawSheeyan < /romanized> < unicode > 保险 < /unicode > < phrase > & amp;
+#20445;&amp;# 38505; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 557 < /phraseID> < catID > 18 < /catID > < phraseOrder > 31 < /phraseOrder> < englishPhrase > Loading < /englishPhrase > < romanized > Jwanghuo < /romanized> < unicode > 装货 < /unicode > < phrase > & amp;
+#35013;&amp;# 36135; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 558 < /phraseID> < catID > 18 < /catID > < phraseOrder > 32 < /phraseOrder> < englishPhrase > Name of goods < /englishPhrase > < romanized > ho - omeeng < /romanized> < unicode > 货名 < /unicode > < phrase > & amp;
+#36135;&amp;# 21517; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 559 < /phraseID> < catID > 18 < /catID > < phraseOrder > 33 < /phraseOrder> < englishPhrase > Narcotics < /englishPhrase > < romanized > madzoyejee < /romanized> < unicode > 麻醉剂 < /unicode > < phrase > & amp;
+#40635;&amp;# 37257; & amp;
+#21058;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>560</phraseID>
+<catID>18</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>National treasure</englishPhrase>
+<romanized>gobaw</romanized>
+<unicode>国宝</unicode>
+<phrase>&amp;# 22269; & amp;
+#23453;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>561</phraseID>
+<catID>18</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Nomenclature</englishPhrase>
+<romanized>meengCheng</romanized>
+<unicode>名称</unicode>
+<phrase>&amp;# 21517; & amp;
+#31216;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>562</phraseID>
+<catID>18</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>On-Board ___</englishPhrase>
+<romanized>dzaey ___ Shang</romanized>
+<unicode>在 ___ 上</unicode>
+<phrase>&amp;# 22312;
+___ & amp;
+#19978;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>563</phraseID>
+<catID>18</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>Origin</englishPhrase>
+<romanized>faaho deedeeyan</romanized>
+<unicode>发货地点</unicode>
+<phrase>&amp;# 21457; & amp;
+#36135;&amp;# 22320; & amp;
+#28857;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>564</phraseID>
+<catID>18</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>Owner</englishPhrase>
+<romanized>hoJoo</romanized>
+<unicode>货主</unicode>
+<phrase>&amp;# 36135; & amp;
+#20027;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>565</phraseID>
+<catID>18</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>Packing list</englishPhrase>
+<romanized>bawJwang Cheengdan</romanized>
+<unicode>包装清单</unicode>
+<phrase>&amp;# 21253; & amp;
+#35013;&amp;# 28165; & amp;
+#21333;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>566</phraseID>
+<catID>18</catID>
+<phraseOrder>40</phraseOrder>
+<englishPhrase>Passport</englishPhrase>
+<romanized>hoJaw</romanized>
+<unicode>护照</unicode>
+<phrase>&amp;# 25252; & amp;
+#29031;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>567</phraseID>
+<catID>18</catID>
+<phraseOrder>41</phraseOrder>
+<englishPhrase>Permission</englishPhrase>
+<romanized>Shwykaa</romanized>
+<unicode>许可</unicode>
+<phrase>&amp;# 35768; & amp;
+#21487;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>568</phraseID>
+<catID>18</catID>
+<phraseOrder>42</phraseOrder>
+<englishPhrase>Personal use</englishPhrase>
+<romanized>si-ren yong</romanized>
+<unicode>私人用</unicode>
+<phrase>&amp;# 31169; & amp;
+#20154;&amp;# 29992; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 569 < /phraseID> < catID > 18 < /catID > < phraseOrder > 43 < /phraseOrder> < englishPhrase > Personnel < /englishPhrase > < romanized > renyoo - an < /romanized> < unicode > 人员 < /unicode > < phrase > & amp;
+#20154;&amp;# 21592; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 570 < /phraseID> < catID > 18 < /catID > < phraseOrder > 44 < /phraseOrder> < englishPhrase > Prohibited < /englishPhrase > < romanized > jeenJe < /romanized> < unicode > 禁止 < /unicode > < phrase > & amp;
+#31105;&amp;# 27490; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 571 < /phraseID> < catID > 18 < /catID > < phraseOrder > 45 < /phraseOrder> < englishPhrase > Property < /englishPhrase > < romanized > tseyChan < /romanized> < unicode > 财产 < /unicode > < phrase > & amp;
+#36130;&amp;# 20135; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 572 < /phraseID> < catID > 18 < /catID > < phraseOrder > 46 < /phraseOrder> < englishPhrase > Rate < /englishPhrase > < romanized > beeloo < /romanized> < unicode > 比率 < /unicode > < phrase > & amp;
+#27604;&amp;# 29575; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 573 < /phraseID> < catID > 18 < /catID > < phraseOrder > 47 < /phraseOrder> < englishPhrase > Rate of exchange < /englishPhrase > < romanized > hoyeloo < /romanized> < unicode > 汇率 < /unicode > < phrase > & amp;
+#27719;&amp;# 29575; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 574 < /phraseID> < catID > 18 < /catID > < phraseOrder > 48 < /phraseOrder> < englishPhrase > Receipt < /englishPhrase > < romanized > Shojooy < /romanized> < unicode > 收据 < /unicode > < phrase > & amp;
+#25910;&amp;# 25454; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 575 < /phraseID> < catID > 18 < /catID > < phraseOrder > 49 < /phraseOrder> < englishPhrase > Relics < /englishPhrase > < romanized > yeeJe < /romanized> < unicode > 遗址 < /unicode > < phrase > & amp;
+#36951;&amp;# 22336; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 576 < /phraseID> < catID > 18 < /catID > < phraseOrder > 50 < /phraseOrder> < englishPhrase > Restricted < /englishPhrase > < romanized > Sho SheeyanJee de < /romanized> < unicode > 受限制的 < /unicode > < phrase > & amp;
+#21463;&amp;# 38480; & amp;
+#21046;&amp;# 30340; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 577 < /phraseID> < catID > 18 < /catID > < phraseOrder > 51 < /phraseOrder> < englishPhrase > Souvenir < /englishPhrase > < romanized > jeeneeyanpeen < /romanized> < unicode > 纪念品 < /unicode > < phrase > & amp;
+#32426;&amp;# 24565; & amp;
+#21697;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>578</phraseID>
+<catID>18</catID>
+<phraseOrder>52</phraseOrder>
+<englishPhrase>Specification</englishPhrase>
+<romanized>Sheedze-aa</romanized>
+<unicode>细则</unicode>
+<phrase>&amp;# 32454; & amp;
+#21017;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>579</phraseID>
+<catID>18</catID>
+<phraseOrder>53</phraseOrder>
+<englishPhrase>Storage</englishPhrase>
+<romanized>ChoCho-an</romanized>
+<unicode>储存</unicode>
+<phrase>&amp;# 20648; & amp;
+#23384;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>580</phraseID>
+<catID>18</catID>
+<phraseOrder>54</phraseOrder>
+<englishPhrase>Tariff</englishPhrase>
+<romanized>goowanShoway</romanized>
+<unicode>关税</unicode>
+<phrase>&amp;# 20851; & amp;
+#31246;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>581</phraseID>
+<catID>18</catID>
+<phraseOrder>55</phraseOrder>
+<englishPhrase>Tax-free</englishPhrase>
+<romanized>meeyanShway</romanized>
+<unicode>免税</unicode>
+<phrase>&amp;# 20813; & amp;
+#31246;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>582</phraseID>
+<catID>18</catID>
+<phraseOrder>56</phraseOrder>
+<englishPhrase>To answer</englishPhrase>
+<romanized>hoyda</romanized>
+<unicode>回答</unicode>
+<phrase>&amp;# 22238; & amp;
+#31572;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>583</phraseID>
+<catID>18</catID>
+<phraseOrder>57</phraseOrder>
+<englishPhrase>To be responsible for ___</englishPhrase>
+<romanized>do ey ___ foodze-aa</romanized>
+<unicode>对 ___ 负责</unicode>
+<phrase>&amp;# 23545;
+___ & amp;
+#36127;&amp;# 36131; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 584 < /phraseID> < catID > 18 < /catID > < phraseOrder > 58 < /phraseOrder> < englishPhrase > To
+export < /englishPhrase> < romanized > Chooko < /romanized > < unicode > 出口 < /unicode> < phrase > & amp;
+#20986;&amp;# 21475; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 585 < /phraseID> < catID > 18 < /catID > < phraseOrder > 59 < /phraseOrder> < englishPhrase > To fill out < /englishPhrase > < romanized > teeyenhaw < /romanized> < unicode > 填好 < /unicode > < phrase > & amp;
+#22635;&amp;# 22909; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 586 < /phraseID> < catID > 18 < /catID > < phraseOrder > 60 < /phraseOrder> < englishPhrase > To present
+for customs inspection. < /englishPhrase> < romanized > rang haygoo - an jeeyanCha < /romanized > < unicode > 让海关检查。 < /unicode> < phrase > & amp;
+#35753;&amp;# 28023; & amp;
+#20851;&amp;# 26816; & amp;
+#26597;&amp;# 12290; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 587 < /phraseID> < catID > 18 < /catID > < phraseOrder > 61 < /phraseOrder> < englishPhrase > Transportation < /englishPhrase > < romanized > jeeyawtong < /romanized> < unicode > 交通 < /unicode > < phrase > & amp;
+#20132;&amp;# 36890; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 588 < /phraseID> < catID > 18 < /catID > < phraseOrder > 62 < /phraseOrder> < englishPhrase > Unloading < /englishPhrase > < romanized > SheeyeKo < /romanized> < unicode > 卸货 < /unicode > < phrase > & amp;
+#21368;&amp;# 36135; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 589 < /phraseID> < catID > 18 < /catID > < phraseOrder > 63 < /phraseOrder> < englishPhrase > Valuables < /englishPhrase > < romanized > gowayJong wopeen < /romanized> < unicode > 贵重物品 < /unicode > < phrase > & amp;
+#36149;&amp;# 37325; & amp;
+#29289;&amp;# 21697; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 590 < /phraseID> < catID > 18 < /catID > < phraseOrder > 64 < /phraseOrder> < englishPhrase > Value < /englishPhrase > < romanized > jeeyaaJi < /romanized> < unicode > 价值 < /unicode > < phrase > & amp;
+#20215;&amp;# 20540; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 591 < /phraseID> < catID > 18 < /catID > < phraseOrder > 65 < /phraseOrder> < englishPhrase > Visa < /englishPhrase > < romanized > CheeyanJeng < /romanized> < unicode > 签证 < /unicode > < phrase > & amp;
+#31614;&amp;# 35777; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 592 < /phraseID> < catID > 18 < /catID > < phraseOrder > 66 < /phraseOrder> < englishPhrase > Weapons < /englishPhrase > < romanized > wooChee < /romanized> < unicode > 武器 < /unicode > < phrase > & amp;
+#27494;&amp;# 22120; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 593 < /phraseID> < catID > 18 < /catID > < phraseOrder > 67 < /phraseOrder> < englishPhrase > X - ray machine < /englishPhrase > < romanized > iks - gowangjee < /romanized> < unicode > X光机 < /unicode > < phrase > X & amp;
+#20809;&amp;# 26426; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 596 < /phraseID> < catID > 19 < /catID > < phraseOrder > 1 < /phraseOrder> < englishPhrase > Aunt < /englishPhrase > < romanized > yee < /romanized> < unicode > 姨 < /unicode > < phrase > & amp;
+#23016;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>597</phraseID>
+<catID>19</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Brother</englishPhrase>
+<romanized>Shongdee</romanized>
+<unicode>兄弟</unicode>
+<phrase>&amp;# 20804; & amp;
+#24351;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>598</phraseID>
+<catID>19</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Child</englishPhrase>
+<romanized>haydzi</romanized>
+<unicode>孩子</unicode>
+<phrase>&amp;# 23401; & amp;
+#23376;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>599</phraseID>
+<catID>19</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Children</englishPhrase>
+<romanized>haydzimen</romanized>
+<unicode>孩子们</unicode>
+<phrase>&amp;# 23401; & amp;
+#23376;&amp;# 20204; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 600 < /phraseID> < catID > 19 < /catID > < phraseOrder > 5 < /phraseOrder> < englishPhrase > Cousin < /englishPhrase > < romanized > taangaa < /romanized> < unicode > 堂兄 < /unicode > < phrase > & amp;
+#22530;&amp;# 20804; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 602 < /phraseID> < catID > 19 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Daughter < /englishPhrase > < romanized > nee & apos;
+er < /romanized> < unicode > 女儿 < /unicode > < phrase > & amp;
+#22899;&amp;# 20799; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 603 < /phraseID> < catID > 19 < /catID > < phraseOrder > 7 < /phraseOrder> < englishPhrase > Family < /englishPhrase > < romanized > jeeyaateeng < /romanized> < unicode > 家庭 < /unicode > < phrase > & amp;
+#23478;&amp;# 24237; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 604 < /phraseID> < catID > 19 < /catID > < phraseOrder > 8 < /phraseOrder> < englishPhrase > Father < /englishPhrase > < romanized > fooCheen < /romanized> < unicode > 父亲 < /unicode > < phrase > & amp;
+#29238;&amp;# 20146; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 605 < /phraseID> < catID > 19 < /catID > < phraseOrder > 9 < /phraseOrder> < englishPhrase > Grandfather < /englishPhrase > < romanized > Jofoo < /romanized> < unicode > 祖父 < /unicode > < phrase > & amp;
+#31062;&amp;# 29238; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 606 < /phraseID> < catID > 19 < /catID > < phraseOrder > 10 < /phraseOrder> < englishPhrase > Grandmother < /englishPhrase > < romanized > Joomoo < /romanized> < unicode > 祖母 < /unicode > < phrase > & amp;
+#31062;&amp;# 27597; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 607 < /phraseID> < catID > 19 < /catID > < phraseOrder > 11 < /phraseOrder> < englishPhrase > Husband < /englishPhrase > < romanized > Jangfoo < /romanized> < unicode > 丈夫 < /unicode > < phrase > & amp;
+#19976;&amp;# 22827; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 608 < /phraseID> < catID > 19 < /catID > < phraseOrder > 12 < /phraseOrder> < englishPhrase > Man < /englishPhrase > < romanized > nanRen < /romanized> < unicode > 男人 < /unicode > < phrase > & amp;
+#30007;&amp;# 20154; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 609 < /phraseID> < catID > 19 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > Men < /englishPhrase > < romanized > nanRen < /romanized> < unicode > 男人们 < /unicode > < phrase > & amp;
+#30007;&amp;# 20154; & amp;
+#20204;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>610</phraseID>
+<catID>19</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Mother</englishPhrase>
+<romanized>mooCheen</romanized>
+<unicode>母亲</unicode>
+<phrase>&amp;# 27597; & amp;
+#20146;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>611</phraseID>
+<catID>19</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Relatives</englishPhrase>
+<romanized>CheenChee</romanized>
+<unicode>亲戚</unicode>
+<phrase>&amp;# 20146; & amp;
+#25114;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>612</phraseID>
+<catID>19</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Sister</englishPhrase>
+<romanized>jeeyeme</romanized>
+<unicode>姐妹</unicode>
+<phrase>&amp;# 22992; & amp;
+#22969;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>613</phraseID>
+<catID>19</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Son</englishPhrase>
+<romanized>ardzi</romanized>
+<unicode>儿子</unicode>
+<phrase>&amp;# 20799; & amp;
+#23376;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>614</phraseID>
+<catID>19</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Uncle</englishPhrase>
+<romanized>bofoo</romanized>
+<unicode>伯父</unicode>
+<phrase>&amp;# 20271; & amp;
+#29238;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>615</phraseID>
+<catID>19</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Wife</englishPhrase>
+<romanized>Cheedzi</romanized>
+<unicode>妻子</unicode>
+<phrase>&amp;# 22971; & amp;
+#23376;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>616</phraseID>
+<catID>19</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Woman</englishPhrase>
+<romanized>fonew</romanized>
+<unicode>妇女</unicode>
+<phrase>&amp;# 22919; & amp;
+#22899;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>617</phraseID>
+<catID>19</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Women</englishPhrase>
+<romanized>fonew</romanized>
+<unicode>妇女</unicode>
+<phrase>&amp;# 22919; & amp;
+#22899;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>633</phraseID>
+<catID>20</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Cold</englishPhrase>
+<romanized>laang</romanized>
+<unicode>冷</unicode>
+<phrase>&amp;# 20919; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 634 < /phraseID> < catID > 20 < /catID > < phraseOrder > 2 < /phraseOrder> < englishPhrase > Dry < /englishPhrase > < romanized > gan < /romanized> < unicode > 干 < /unicode > < phrase > & amp;
+#24178;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>635</phraseID>
+<catID>20</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Earthquake</englishPhrase>
+<romanized>deeJen</romanized>
+<unicode>地震</unicode>
+<phrase>&amp;# 22320; & amp;
+#38663;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>636</phraseID>
+<catID>20</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Fog</englishPhrase>
+<romanized>woo</romanized>
+<unicode>雾</unicode>
+<phrase>&amp;# 38654; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 637 < /phraseID> < catID > 20 < /catID > < phraseOrder > 5 < /phraseOrder> < englishPhrase > High winds < /englishPhrase > < romanized > daafeng < /romanized> < unicode > 大风 < /unicode > < phrase > & amp;
+#22823;&amp;# 39118; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 638 < /phraseID> < catID > 20 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Hot < /englishPhrase > < romanized > ro < /romanized> < unicode > 热 < /unicode > < phrase > & amp;
+#28909;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>639</phraseID>
+<catID>20</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Humidity</englishPhrase>
+<romanized>Chawshi</romanized>
+<unicode>潮湿</unicode>
+<phrase>&amp;# 28526; & amp;
+#28287;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>640</phraseID>
+<catID>20</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Ice</englishPhrase>
+<romanized>beeng</romanized>
+<unicode>冰</unicode>
+<phrase>&amp;# 20912; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 641 < /phraseID> < catID > 20 < /catID > < phraseOrder > 9 < /phraseOrder> < englishPhrase > Lightning < /englishPhrase > < romanized > Shandeeyan < /romanized> < unicode > 闪电 < /unicode > < phrase > & amp;
+#38378;&amp;# 30005; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 642 < /phraseID> < catID > 20 < /catID > < phraseOrder > 10 < /phraseOrder> < englishPhrase > Rain < /englishPhrase > < romanized > yoo - e < /romanized> < unicode > 雨 < /unicode > < phrase > & amp;
+#38632;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>643</phraseID>
+<catID>20</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Sandstorm</englishPhrase>
+<romanized>ShaChenbaw</romanized>
+<unicode>沙尘暴</unicode>
+<phrase>&amp;# 27801; & amp;
+#23576;&amp;# 26292; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 644 < /phraseID> < catID > 20 < /catID > < phraseOrder > 12 < /phraseOrder> < englishPhrase > Severe < /englishPhrase > < romanized > oleeye < /romanized> < unicode > 恶劣 < /unicode > < phrase > & amp;
+#24694;&amp;# 21155; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 645 < /phraseID> < catID > 20 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > Snow < /englishPhrase > < romanized > Shooye < /romanized> < unicode > 雪 < /unicode > < phrase > & amp;
+#38634;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>646</phraseID>
+<catID>20</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Storm</englishPhrase>
+<romanized>bawfengyoo</romanized>
+<unicode>暴风雨</unicode>
+<phrase>&amp;# 26292; & amp;
+#39118;&amp;# 38632; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 647 < /phraseID> < catID > 20 < /catID > < phraseOrder > 15 < /phraseOrder> < englishPhrase > Temperature < /englishPhrase > < romanized > wendoo < /romanized> < unicode > 温度 < /unicode > < phrase > & amp;
+#28201;&amp;# 24230; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 648 < /phraseID> < catID > 20 < /catID > < phraseOrder > 16 < /phraseOrder> < englishPhrase > Thunderstorm < /englishPhrase > < romanized > ley - yoo < /romanized> < unicode > 雷雨 < /unicode > < phrase > & amp;
+#38647;&amp;# 38632; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 649 < /phraseID> < catID > 20 < /catID > < phraseOrder > 17 < /phraseOrder> < englishPhrase > Weather < /englishPhrase > < romanized > teeyanChee < /romanized> < unicode > 天气 < /unicode > < phrase > & amp;
+#22825;&amp;# 27668; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 650 < /phraseID> < catID > 20 < /catID > < phraseOrder > 18 < /phraseOrder> < englishPhrase > Wet < /englishPhrase > < romanized > shi < /romanized> < unicode > 湿 < /unicode > < phrase > & amp;
+#28287;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>653</phraseID>
+<catID>21</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Airfield</englishPhrase>
+<romanized>feejeeChaang</romanized>
+<unicode>飞机场</unicode>
+<phrase>&amp;# 39134; & amp;
+#26426;&amp;# 22330; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 654 < /phraseID> < catID > 21 < /catID > < phraseOrder > 2 < /phraseOrder> < englishPhrase > Ammunition < /englishPhrase > < romanized > danyaw < /romanized> < unicode > 弹药 < /unicode > < phrase > & amp;
+#24377;&amp;# 33647; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 655 < /phraseID> < catID > 21 < /catID > < phraseOrder > 3 < /phraseOrder> < englishPhrase > Armed men < /englishPhrase > < romanized > wooJwang fendzi < /romanized> < unicode > 武装份子 < /unicode > < phrase > & amp;
+#27494;&amp;# 35013; & amp;
+#20221;&amp;# 23376; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 656 < /phraseID> < catID > 21 < /catID > < phraseOrder > 4 < /phraseOrder> < englishPhrase > Artillery < /englishPhrase > < romanized > hopaw < /romanized> < unicode > 火炮 < /unicode > < phrase > & amp;
+#28779;&amp;# 28846; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 657 < /phraseID> < catID > 21 < /catID > < phraseOrder > 5 < /phraseOrder> < englishPhrase > Barracks < /englishPhrase > < romanized > beengyeeng < /romanized> < unicode > 兵营 < /unicode > < phrase > & amp;
+#20853;&amp;# 33829; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 658 < /phraseID> < catID > 21 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Base < /englishPhrase > < romanized > jeedee < /romanized> < unicode > 基地 < /unicode > < phrase > & amp;
+#22522;&amp;# 22320; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 659 < /phraseID> < catID > 21 < /catID > < phraseOrder > 7 < /phraseOrder> < englishPhrase > Camp < /englishPhrase > < romanized > yeengdee < /romanized> < unicode > 营地 < /unicode > < phrase > & amp;
+#33829;&amp;# 22320; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 660 < /phraseID> < catID > 21 < /catID > < phraseOrder > 8 < /phraseOrder> < englishPhrase > Cannon < /englishPhrase > < romanized > dapaw < /romanized> < unicode > 大炮 < /unicode > < phrase > & amp;
+#22823;&amp;# 28846; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 661 < /phraseID> < catID > 21 < /catID > < phraseOrder > 9 < /phraseOrder> < englishPhrase > Car < /englishPhrase > < romanized > CheeCho < /romanized> < unicode > 汽车 < /unicode > < phrase > & amp;
+#27773;&amp;# 36710; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 662 < /phraseID> < catID > 21 < /catID > < phraseOrder > 10 < /phraseOrder> < englishPhrase > Commander < /englishPhrase > < romanized > JeKhoyweeyen < /romanized> < unicode > 指挥员 < /unicode > < phrase > & amp;
+#25351;&amp;# 25381; & amp;
+#21592;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>663</phraseID>
+<catID>21</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Enemy</englishPhrase>
+<romanized>deeren</romanized>
+<unicode>敌人</unicode>
+<phrase>&amp;# 25932; & amp;
+#20154;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>664</phraseID>
+<catID>21</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Explosive</englishPhrase>
+<romanized>bawJawoo</romanized>
+<unicode>爆炸物</unicode>
+<phrase>&amp;# 29190; & amp;
+#28856;&amp;# 29289; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 665 < /phraseID> < catID > 21 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > Friendly < /englishPhrase > < romanized > yohaw de < /romanized> < unicode > 友好的 < /unicode > < phrase > & amp;
+#21451;&amp;# 22909; & amp;
+#30340;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>666</phraseID>
+<catID>21</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Grenade</englishPhrase>
+<romanized>Showleeyodan</romanized>
+<unicode>手榴弹</unicode>
+<phrase>&amp;# 25163; & amp;
+#27060;&amp;# 24377; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 667 < /phraseID> < catID > 21 < /catID > < phraseOrder > 15 < /phraseOrder> < englishPhrase > Gun < /englishPhrase > < romanized > Cheeyang < /romanized> < unicode > 抢 < /unicode > < phrase > & amp;
+#25250;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>668</phraseID>
+<catID>21</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Jeep</englishPhrase>
+<romanized>jeepo</romanized>
+<unicode>吉普</unicode>
+<phrase>&amp;# 21513; & amp;
+#26222;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>669</phraseID>
+<catID>21</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Kilometer</englishPhrase>
+<romanized>gonglee</romanized>
+<unicode>公里</unicode>
+<phrase>&amp;# 20844; & amp;
+#37324;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>670</phraseID>
+<catID>21</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Knife</englishPhrase>
+<romanized>daw</romanized>
+<unicode>刀</unicode>
+<phrase>&amp;# 20992; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 671 < /phraseID> < catID > 21 < /catID > < phraseOrder > 19 < /phraseOrder> < englishPhrase > Leader < /englishPhrase > < romanized > leengdaw < /romanized> < unicode > 领导 < /unicode > < phrase > & amp;
+#39046;&amp;# 23548; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 672 < /phraseID> < catID > 21 < /catID > < phraseOrder > 20 < /phraseOrder> < englishPhrase > Machine gun < /englishPhrase > < romanized > jeegoo - anCheeyang < /romanized> < unicode > 机关枪 < /unicode > < phrase > & amp;
+#26426;&amp;# 20851; & amp;
+#26538;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>673</phraseID>
+<catID>21</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Mine</englishPhrase>
+<romanized>deeley</romanized>
+<unicode>地雷</unicode>
+<phrase>&amp;# 22320; & amp;
+#38647;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>674</phraseID>
+<catID>21</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Minefield</englishPhrase>
+<romanized>deeleyCho</romanized>
+<unicode>地雷区</unicode>
+<phrase>&amp;# 22320; & amp;
+#38647;&amp;# 21306; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 675 < /phraseID> < catID > 21 < /catID > < phraseOrder > 23 < /phraseOrder> < englishPhrase > Missile < /englishPhrase > < romanized > dawdan < /romanized> < unicode > 导弹 < /unicode > < phrase > & amp;
+#23548;&amp;# 24377; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 676 < /phraseID> < catID > 21 < /catID > < phraseOrder > 24 < /phraseOrder> < englishPhrase > Mortar < /englishPhrase > < romanized > pojeepaw < /romanized> < unicode > 迫击炮 < /unicode > < phrase > & amp;
+#36843;&amp;# 20987; & amp;
+#28846;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>677</phraseID>
+<catID>21</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Officer</englishPhrase>
+<romanized>jooing goo an</romanized>
+<unicode>军官</unicode>
+<phrase>&amp;# 20891; & amp;
+#23448;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>678</phraseID>
+<catID>21</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Pistol</englishPhrase>
+<romanized>ShoChee ang</romanized>
+<unicode>手枪</unicode>
+<phrase>&amp;# 25163; & amp;
+#26538;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>679</phraseID>
+<catID>21</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Plane</englishPhrase>
+<romanized>feyjee</romanized>
+<unicode>飞机</unicode>
+<phrase>&amp;# 39134; & amp;
+#26426;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>680</phraseID>
+<catID>21</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Protection</englishPhrase>
+<romanized>baahoo</romanized>
+<unicode>保护</unicode>
+<phrase>&amp;# 20445; & amp;
+#25252;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>681</phraseID>
+<catID>21</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Refugee</englishPhrase>
+<romanized>nanmeen</romanized>
+<unicode>难民</unicode>
+<phrase>&amp;# 38590; & amp;
+#27665;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>682</phraseID>
+<catID>21</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Rifle</englishPhrase>
+<romanized>boCheeyang</romanized>
+<unicode>步枪</unicode>
+<phrase>&amp;# 27493; & amp;
+#26538;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>683</phraseID>
+<catID>21</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Rocket</englishPhrase>
+<romanized>hojee-an</romanized>
+<unicode>火箭</unicode>
+<phrase>&amp;# 28779; & amp;
+#31661;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>684</phraseID>
+<catID>21</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Rocket launcher</englishPhrase>
+<romanized>hojee an faShoChee</romanized>
+<unicode>火箭发射器</unicode>
+<phrase>&amp;# 28779; & amp;
+#31661;&amp;# 21457; & amp;
+#23556;&amp;# 22120; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 685 < /phraseID> < catID > 21 < /catID > < phraseOrder > 33 < /phraseOrder> < englishPhrase > Shelter < /englishPhrase > < romanized > yentee < /romanized> < unicode > 掩体 < /unicode > < phrase > & amp;
+#25513;&amp;# 20307; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 686 < /phraseID> < catID > 21 < /catID > < phraseOrder > 34 < /phraseOrder> < englishPhrase > Ship < /englishPhrase > < romanized > Cho anjee - an < /romanized> < unicode > 船舰 < /unicode > < phrase > & amp;
+#33337;&amp;# 33328; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 687 < /phraseID> < catID > 21 < /catID > < phraseOrder > 35 < /phraseOrder> < englishPhrase > Sniper < /englishPhrase > < romanized > JoojeeSho < /romanized> < unicode > 阻击手 < /unicode > < phrase > & amp;
+#38459;&amp;# 20987; & amp;
+#25163;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>688</phraseID>
+<catID>21</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>Soldier</englishPhrase>
+<romanized>JanSho</romanized>
+<unicode>战士</unicode>
+<phrase>&amp;# 25112; & amp;
+#22763;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>689</phraseID>
+<catID>21</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>Stronghold</englishPhrase>
+<romanized>bawley</romanized>
+<unicode>堡垒</unicode>
+<phrase>&amp;# 22561; & amp;
+#22418;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>690</phraseID>
+<catID>21</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>Tank</englishPhrase>
+<romanized>tanko</romanized>
+<unicode>坦克</unicode>
+<phrase>&amp;# 22374; & amp;
+#20811;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>691</phraseID>
+<catID>21</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>Tent</englishPhrase>
+<romanized>Jang peng</romanized>
+<unicode>帐篷</unicode>
+<phrase>&amp;# 24080; & amp;
+#31735;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>692</phraseID>
+<catID>21</catID>
+<phraseOrder>40</phraseOrder>
+<englishPhrase>Trailer</englishPhrase>
+<romanized>toCho</romanized>
+<unicode>拖车</unicode>
+<phrase>&amp;# 25302; & amp;
+#36710;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>693</phraseID>
+<catID>21</catID>
+<phraseOrder>41</phraseOrder>
+<englishPhrase>Truck</englishPhrase>
+<romanized>kaaCho</romanized>
+<unicode>卡车</unicode>
+<phrase>&amp;# 21345; & amp;
+#36710;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>694</phraseID>
+<catID>21</catID>
+<phraseOrder>42</phraseOrder>
+<englishPhrase>Unit</englishPhrase>
+<romanized>leeyendway / boodway</romanized>
+<unicode>连队 / 部队</unicode>
+<phrase>&amp;# 36830; & amp;
+#38431; / &amp;# 37096; & amp;
+#38431;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>695</phraseID>
+<catID>21</catID>
+<phraseOrder>43</phraseOrder>
+<englishPhrase>Weapons</englishPhrase>
+<romanized>wooChee</romanized>
+<unicode>武器</unicode>
+<phrase>&amp;# 27494; & amp;
+#22120;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>696</phraseID>
+<catID>22</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Angle</englishPhrase>
+<romanized>jeeyawdoo</romanized>
+<unicode>角度</unicode>
+<phrase>&amp;# 35282; & amp;
+#24230;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>697</phraseID>
+<catID>22</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Azimuth</englishPhrase>
+<romanized>fangwayjee aw</romanized>
+<unicode>方位角</unicode>
+<phrase>&amp;# 26041; & amp;
+#20301;&amp;# 35282; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 698 < /phraseID> < catID > 22 < /catID > < phraseOrder > 3 < /phraseOrder> < englishPhrase > Cleared lane < /englishPhrase > < romanized > Cheenglee haw de Chodaa < /romanized> < unicode > 清理好的车道 < /unicode > < phrase > & amp;
+#28165;&amp;# 29702; & amp;
+#22909;&amp;# 30340; & amp;
+#36710;&amp;# 36947; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 699 < /phraseID> < catID > 22 < /catID > < phraseOrder > 4 < /phraseOrder> < englishPhrase > Compass < /englishPhrase > < romanized > JeenanJen < /romanized> < unicode > 指南针 < /unicode > < phrase > & amp;
+#25351;&amp;# 21335; & amp;
+#38024;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>700</phraseID>
+<catID>22</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Danger area</englishPhrase>
+<romanized>woyiSheey an Choo</romanized>
+<unicode>危险区</unicode>
+<phrase>&amp;# 21361; & amp;
+#38505;&amp;# 21306; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 701 < /phraseID> < catID > 22 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Demolition < /englishPhrase > < romanized > chaayho eey < /romanized> < unicode > 拆毁 < /unicode > < phrase > & amp;
+#25286;&amp;# 27585; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 702 < /phraseID> < catID > 22 < /catID > < phraseOrder > 7 < /phraseOrder> < englishPhrase > Grappling hook < /englishPhrase > < romanized > Joowago < /romanized> < unicode > 抓勾 < /unicode > < phrase > & amp;
+#25235;&amp;# 21246; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 703 < /phraseID> < catID > 22 < /catID > < phraseOrder > 8 < /phraseOrder> < englishPhrase > In Place < /englishPhrase > < romanized > daw wey < /romanized> < unicode > 到位 < /unicode > < phrase > & amp;
+#21040;&amp;# 20301; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 704 < /phraseID> < catID > 22 < /catID > < phraseOrder > 9 < /phraseOrder> < englishPhrase > Metallic < /englishPhrase > < romanized > jeenSho da < /romanized> < unicode > 金属的 < /unicode > < phrase > & amp;
+#37329;&amp;# 23646; & amp;
+#30340;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>705</phraseID>
+<catID>22</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Mine</englishPhrase>
+<romanized>deelay</romanized>
+<unicode>地雷</unicode>
+<phrase>&amp;# 22320; & amp;
+#38647;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>706</phraseID>
+<catID>22</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Minefield</englishPhrase>
+<romanized>deeleyJen / layChoo</romanized>
+<unicode>地雷阵 / 雷区</unicode>
+<phrase>&amp;# 22320; & amp;
+#38647;&amp;# 38453;
+/ &amp;#38647;&amp;#21306;</phrase >
+< /dbo_langKit> < dbo_langKit > < phraseID > 707 < /phraseID> < catID > 22 < /catID > < phraseOrder > 12 < /phraseOrder> < englishPhrase > Non - metallic < /englishPhrase > < romanized > feejeenSho da < /romanized> < unicode > 非金属的 < /unicode > < phrase > & amp;
+#38750;&amp;# 37329; & amp;
+#23646;&amp;# 30340; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 708 < /phraseID> < catID > 22 < /catID > < phraseOrder > 13 < /phraseOrder> < englishPhrase > Pace < /englishPhrase > < romanized > jeendoo < /romanized> < unicode > 进度 < /unicode > < phrase > & amp;
+#36827;&amp;# 24230; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 709 < /phraseID> < catID > 22 < /catID > < phraseOrder > 14 < /phraseOrder> < englishPhrase > Stake < /englishPhrase > < romanized > beeyaw Joo aang < /romanized> < unicode > 标桩 < /unicode > < phrase > & amp;
+#26631;&amp;# 26729; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 711 < /phraseID> < catID > 22 < /catID > < phraseOrder > 15 < /phraseOrder> < englishPhrase > Tree < /englishPhrase > < romanized > Shoo < /romanized> < unicode > 树 < /unicode > < phrase > & amp;
+#26641;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>712</phraseID>
+<catID>22</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Tape</englishPhrase>
+<romanized>tseeday</romanized>
+<unicode>磁带</unicode>
+<phrase>&amp;# 30913; & amp;
+#24102;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>714</phraseID>
+<catID>5</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>80    Eighty</englishPhrase>
+<romanized>80 baashi</romanized>
+<unicode>80 八十</unicode>
+<phrase>80 &amp;# 20843; & amp;
+#21313;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>715</phraseID>
+<catID>6</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Afternoon</englishPhrase>
+<romanized>Sheeyawo</romanized>
+<unicode>下午</unicode>
+<phrase>&amp;# 19979; & amp;
+#21320;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>716</phraseID>
+<catID>20</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Typhoon</englishPhrase>
+<romanized>tayfeng</romanized>
+<unicode>台风</unicode>
+<phrase>&amp;# 21488; & amp;
+#39118;</phrase>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>717</phraseID>
+<catID>20</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Tornado</englishPhrase>
+<romanized>longjoo-an-feng</romanized>
+<unicode>龙卷风</unicode>
+<phrase>&amp;# 40857; & amp;
+#21367;&amp;# 39118; < /phrase> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 718 < /phraseID> < catID > 23 < /catID > < phraseOrder > 1 < /phraseOrder> < englishPhrase > Ch < /englishPhrase > < romanized > & lt;
+span class = & quot;
+css_hl & quot; & gt;
+Ch & lt;
+/span&gt;ian or &lt;span class=&quot;css_hl&quot;&gt;Ch&lt;/span & gt;
+iang < /romanized> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 719 < /phraseID> < catID > 23 < /catID > < phraseOrder > 2 < /phraseOrder> < englishPhrase > dz < /englishPhrase > < romanized > & lt;
+span class = & quot;
+css_hl & quot; & gt;
+dz & lt;
+/span&gt;ou or &lt;span class=&quot;css_hl&quot;&gt;dz&lt;/span & gt;
+ai < /romanized> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 720 < /phraseID> < catID > 23 < /catID > < phraseOrder > 3 < /phraseOrder> < englishPhrase > gw < /englishPhrase > < romanized > & lt;
+span class = & quot;
+css_hl & quot; & gt;
+gw & lt;
+/span&gt;ou or &lt;span class=&quot;css_hl&quot;&gt;gw&lt;/span & gt;
+angchang < /romanized> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 721 < /phraseID> < catID > 23 < /catID > < phraseOrder > 4 < /phraseOrder> < englishPhrase > J < /englishPhrase > < romanized > & lt;
+span class = & quot;
+css_hl & quot; & gt;
+J & lt;
+/span&gt;ang or &lt;span class=&quot;css_hl&quot;&gt;J&lt;/span & gt;
+wang < /romanized> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 722 < /phraseID> < catID > 23 < /catID > < phraseOrder > 5 < /phraseOrder> < englishPhrase > R < /englishPhrase > < romanized > & lt;
+span class = & quot;
+css_hl & quot; & gt;
+R & lt;
+/span&gt;ang or nan&lt;span class=&quot;css_hl&quot;&gt;R&lt;/span & gt;
+en < /romanized> < /dbo_langKit > < dbo_langKit >
+    < phraseID > 723 < /phraseID> < catID > 23 < /catID > < phraseOrder > 6 < /phraseOrder> < englishPhrase > Sh < /englishPhrase > < romanized > & lt;
+span class = & quot;
+css_hl & quot; & gt;
+Sh & lt;
+/span&gt;ie&lt;span class=&quot;css_hl&quot;&gt;Sh&lt;/span & gt;
+ie or & lt;
+span class = & quot;
+css_hl & quot; & gt;
+Sh & lt;
+/span&gt;uyao</romanized >
+< /dbo_langKit> < dbo_langKit > < phraseID > 724 < /phraseID> < catID > 23 < /catID > < phraseOrder > 7 < /phraseOrder> < englishPhrase > ts < /englishPhrase > < romanized > mei & lt;
+span class = & quot;
+css_hl & quot; & gt;
+ts & lt;
+/span&gt;i or &lt;span class=&quot;css_hl&quot;&gt;ts&lt;/span & gt;
+idai < /romanized> < /dbo_langKit > < /dataroot>
